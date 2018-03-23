@@ -1,0 +1,58 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Spruce"
+- "View"
+- "SpruceUIView"
+provides-nominal:
+- "6SpruceAAV"
+- "6Spruce4ViewP"
+- "6Spruce0A6UIViewV"
+provides-member:
+- ["6SpruceAAV", ""]
+- ["6Spruce4ViewP", ""]
+- ["6Spruce0A6UIViewV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGPoint"
+- "Spruce"
+- "SpruceUIView"
+- "UIView"
+- "View"
+depends-member:
+- ["6SpruceAAV", "UIView"]
+- ["6SpruceAAV", "init"]
+- ["6SpruceAAV", "view"]
+- ["6Spruce0A6UIViewV", "CGPoint"]
+- ["6Spruce0A6UIViewV", "UIView"]
+- ["6Spruce0A6UIViewV", "deinit"]
+- ["6Spruce0A6UIViewV", "init"]
+- ["6Spruce0A6UIViewV", "referencePoint"]
+- ["6Spruce0A6UIViewV", "view"]
+- ["6Spruce4ViewP", "CGPoint"]
+- ["6Spruce4ViewP", "UIView"]
+- ["6Spruce4ViewP", "referencePoint"]
+- ["6Spruce4ViewP", "view"]
+- ["6Spruce4ViewP", ""]
+depends-nominal:
+- "6SpruceAAV"
+- "6Spruce0A6UIViewV"
+- "6Spruce4ViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Spruce.build/unextended-module.modulemap"
+interface-hash: "52b341c7c0bc149ed5986813098f6f7e"

@@ -1,0 +1,168 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BioAuthentication"
+provides-nominal:
+- "5Auth017BioAuthenticationV"
+provides-member:
+- ["5Auth017BioAuthenticationV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "BioAuthentication"
+- "Bool"
+- "Error"
+- "LAContext"
+- !private "LAError"
+- !private "LAPolicy"
+- "String"
+- !private "TernaryPrecedence"
+- "Void"
+depends-member:
+- ["5Auth017BioAuthenticationV", "Bool"]
+- ["5Auth017BioAuthenticationV", "Error"]
+- ["5Auth017BioAuthenticationV", "LAContext"]
+- !private ["5Auth017BioAuthenticationV", "LAError"]
+- !private ["5Auth017BioAuthenticationV", "LAPolicy"]
+- ["5Auth017BioAuthenticationV", "String"]
+- ["5Auth017BioAuthenticationV", "Void"]
+- !private ["5Auth017BioAuthenticationV", "authContext"]
+- ["5Auth017BioAuthenticationV", "available"]
+- ["5Auth017BioAuthenticationV", "cancelTitle"]
+- ["5Auth017BioAuthenticationV", "fallbackTitle"]
+- ["5Auth017BioAuthenticationV", "init"]
+- ["5Auth017BioAuthenticationV", "title"]
+- ["5Auth017BioAuthenticationV", "validateBiometric"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "canEvaluatePolicy"]
+- !private ["s7CVarArgP", "evaluatePolicy"]
+- !private ["s7CVarArgP", "localizedCancelTitle"]
+- !private ["s7CVarArgP", "localizedFallbackTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "canEvaluatePolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "evaluatePolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedCancelTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedFallbackTitle"]
+- !private ["10Foundation13CustomNSErrorP", "authenticationFailed"]
+- !private ["10Foundation13CustomNSErrorP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "canEvaluatePolicy"]
+- !private ["s23CustomStringConvertibleP", "evaluatePolicy"]
+- !private ["s23CustomStringConvertibleP", "localizedCancelTitle"]
+- !private ["s23CustomStringConvertibleP", "localizedFallbackTitle"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "authenticationFailed"]
+- !private ["s9EquatableP", "canEvaluatePolicy"]
+- !private ["s9EquatableP", "deviceOwnerAuthenticationWithBiometrics"]
+- !private ["s9EquatableP", "evaluatePolicy"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "localizedCancelTitle"]
+- !private ["s9EquatableP", "localizedFallbackTitle"]
+- !private ["s5ErrorP", "authenticationFailed"]
+- !private ["s5ErrorP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "authenticationFailed"]
+- !private ["s8HashableP", "canEvaluatePolicy"]
+- !private ["s8HashableP", "deviceOwnerAuthenticationWithBiometrics"]
+- !private ["s8HashableP", "evaluatePolicy"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "localizedCancelTitle"]
+- !private ["s8HashableP", "localizedFallbackTitle"]
+- !private ["So9LAContextC", "canEvaluatePolicy"]
+- !private ["So9LAContextC", "evaluatePolicy"]
+- !private ["So9LAContextC", "localizedCancelTitle"]
+- !private ["So9LAContextC", "localizedFallbackTitle"]
+- !private ["SC7LAErrorV", "authenticationFailed"]
+- !private ["SC7LAErrorV", "init"]
+- !private ["SC8LAPolicyO", "deviceOwnerAuthenticationWithBiometrics"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSObjectC", "canEvaluatePolicy"]
+- !private ["So8NSObjectC", "evaluatePolicy"]
+- !private ["So8NSObjectC", "localizedCancelTitle"]
+- !private ["So8NSObjectC", "localizedFallbackTitle"]
+- !private ["So16NSObjectProtocolP", "canEvaluatePolicy"]
+- !private ["So16NSObjectProtocolP", "evaluatePolicy"]
+- !private ["So16NSObjectProtocolP", "localizedCancelTitle"]
+- !private ["So16NSObjectProtocolP", "localizedFallbackTitle"]
+- !private ["s16RawRepresentableP", "deviceOwnerAuthenticationWithBiometrics"]
+- !private ["10Foundation21_BridgedStoredNSErrorP", "authenticationFailed"]
+- !private ["10Foundation21_BridgedStoredNSErrorP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "canEvaluatePolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "evaluatePolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedCancelTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedFallbackTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["10Foundation26_ObjectiveCBridgeableErrorP", "authenticationFailed"]
+- !private ["10Foundation26_ObjectiveCBridgeableErrorP", "init"]
+- !private ["10Foundation16__BridgedNSErrorP", "authenticationFailed"]
+- !private ["10Foundation16__BridgedNSErrorP", "init"]
+depends-nominal:
+- "5Auth017BioAuthenticationV"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "10Foundation13CustomNSErrorP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s8HashableP"
+- !private "So9LAContextC"
+- !private "SC7LAErrorV"
+- !private "SC8LAPolicyO"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation21_BridgedStoredNSErrorP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "10Foundation26_ObjectiveCBridgeableErrorP"
+- !private "10Foundation16__BridgedNSErrorP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers/LocalAuthentication.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/SafariServices.framework/Headers/SafariServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "c81dafd637a206fef3affd11557456ce"

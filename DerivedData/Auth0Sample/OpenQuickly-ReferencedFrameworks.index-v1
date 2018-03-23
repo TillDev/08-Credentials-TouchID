@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>LocalAuthentication</string>
+	<string>QuartzCore</string>
+	<string>Spruce</string>
+	<string>SafariServices</string>
+	<string>CommonCrypto</string>
+	<string>Auth0</string>
+	<string>SimpleKeychain</string>
+	<string>RAMAnimatedTabBarController</string>
+	<string>UIKit</string>
+	<string>Foundation</string>
+</array>
+</plist>

@@ -1,0 +1,166 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "A0ChallengeGenerator.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "Auth0-Swift.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers/Auth0-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Auth0-umbrella.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Auth0.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auth0.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Pods_Auth0Sample.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Auth0Sample-umbrella.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Pods-Auth0Sample/Pods-Auth0Sample-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Auth0Sample-Swift.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Pods_Auth0Sample.framework/Headers/Pods_Auth0Sample-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Pods_Auth0Sample.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-Auth0Sample.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RAMAnimatedTabBarController-Swift.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Headers/RAMAnimatedTabBarController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RAMAnimatedTabBarController-umbrella.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/RAMAnimatedTabBarController/RAMAnimatedTabBarController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RAMAnimatedTabBarController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "A0SimpleKeychain+KeyPair.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+        },
+        {
+          'type': 'file',
+          'name': "A0SimpleKeychain.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "SimpleKeychain-Swift.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers/SimpleKeychain-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SimpleKeychain-umbrella.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SimpleKeychain.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SimpleKeychain.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Spruce-Swift.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Headers/Spruce-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Spruce-umbrella.h",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Spruce.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

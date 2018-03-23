@@ -1,0 +1,114 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StandardAnimation"
+provides-nominal:
+- "6Spruce17StandardAnimationV"
+provides-member:
+- ["6Spruce17StandardAnimationV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Animation"
+- "AssignmentPrecedence"
+- "ChangeFunction"
+- "CompletionHandler"
+- "StandardAnimation"
+- "TimeInterval"
+- "UIView"
+- "UIViewAnimationOptions"
+depends-member:
+- !private ["6Spruce9AnimationP", "UIView"]
+- ["6Spruce9AnimationP", "animate"]
+- !private ["6Spruce9AnimationP", "animationOptions"]
+- ["6Spruce9AnimationP", "changeFunction"]
+- !private ["6Spruce9AnimationP", "duration"]
+- !private ["6Spruce9AnimationP", "init"]
+- ["6Spruce9AnimationP", ""]
+- !private ["So15CALayerDelegateP", "animate"]
+- !private ["s7CVarArgP", "animate"]
+- !private ["s28CustomDebugStringConvertibleP", "animate"]
+- !private ["s23CustomStringConvertibleP", "animate"]
+- !private ["s9EquatableP", "animate"]
+- ["s9EquatableP", "curveEaseOut"]
+- ["s25ExpressibleByArrayLiteralP", "curveEaseOut"]
+- !private ["s8HashableP", "animate"]
+- !private ["So8NSCodingP", "animate"]
+- !private ["So8NSObjectC", "animate"]
+- !private ["So16NSObjectProtocolP", "animate"]
+- ["s9OptionSetP", "curveEaseOut"]
+- ["s16RawRepresentableP", "curveEaseOut"]
+- ["s10SetAlgebraP", "curveEaseOut"]
+- ["6Spruce17StandardAnimationV", "ChangeFunction"]
+- ["6Spruce17StandardAnimationV", "CompletionHandler"]
+- ["6Spruce17StandardAnimationV", "TimeInterval"]
+- ["6Spruce17StandardAnimationV", "UIView"]
+- ["6Spruce17StandardAnimationV", "UIViewAnimationOptions"]
+- ["6Spruce17StandardAnimationV", "animate"]
+- ["6Spruce17StandardAnimationV", "animationOptions"]
+- ["6Spruce17StandardAnimationV", "changeFunction"]
+- ["6Spruce17StandardAnimationV", "deinit"]
+- ["6Spruce17StandardAnimationV", "duration"]
+- ["6Spruce17StandardAnimationV", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "animate"]
+- !private ["So12UIAppearanceP", "animate"]
+- !private ["So21UIAppearanceContainerP", "animate"]
+- !private ["So17UICoordinateSpaceP", "animate"]
+- !private ["So13UIDynamicItemP", "animate"]
+- !private ["So18UIFocusEnvironmentP", "animate"]
+- !private ["So11UIFocusItemP", "animate"]
+- !private ["So30UIPasteConfigurationSupportingP", "animate"]
+- !private ["So11UIResponderC", "animate"]
+- !private ["So30UIResponderStandardEditActionsP", "animate"]
+- !private ["So18UITraitEnvironmentP", "animate"]
+- !private ["So6UIViewC", "animate"]
+- ["SC22UIViewAnimationOptionsV", "curveEaseOut"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+depends-nominal:
+- "6Spruce9AnimationP"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s8HashableP"
+- !private "So8NSCodingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- "s9OptionSetP"
+- "s16RawRepresentableP"
+- "s10SetAlgebraP"
+- "6Spruce17StandardAnimationV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "SC22UIViewAnimationOptionsV"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Spruce.build/unextended-module.modulemap"
+interface-hash: "12942c5cbbdcb5c637d1723fbf2b0be0"

@@ -1,0 +1,526 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "6Spruce14ViewControllerC"
+provides-member:
+- ["6Spruce14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "animationView"
+- "duration"
+- "viewDidAppear"
+- "viewDidLoad"
+depends-top-level:
+- !private ">"
+- "Animation"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Bundle"
+- !private "LinearSortFunction"
+- "NSCoder"
+- "SortFunction"
+- !private "StandardAnimation"
+- "StockAnimation"
+- "String"
+- !private "StringLiteralType"
+- "TimeInterval"
+- "UIView"
+- "UIViewController"
+- "ViewController"
+- !private "fatalError"
+depends-member:
+- !private ["6Spruce9AnimationP", "init"]
+- !private ["Sa", "count"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "spruce"]
+- !private ["s7CVarArgP", "LinearSortFunction"]
+- !private ["s7CVarArgP", "StandardAnimation"]
+- !private ["s7CVarArgP", "animationType"]
+- !private ["s7CVarArgP", "animationView"]
+- !private ["s7CVarArgP", "animations"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "duration"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "sortFunction"]
+- !private ["s7CVarArgP", "spruce"]
+- !private ["s7CVarArgP", "viewDidAppear"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "LinearSortFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "StandardAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "animationType"]
+- !private ["s28CustomDebugStringConvertibleP", "animationView"]
+- !private ["s28CustomDebugStringConvertibleP", "animations"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "sortFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "spruce"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidAppear"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "LinearSortFunction"]
+- !private ["s23CustomStringConvertibleP", "StandardAnimation"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "animationType"]
+- !private ["s23CustomStringConvertibleP", "animationView"]
+- !private ["s23CustomStringConvertibleP", "animations"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "sortFunction"]
+- !private ["s23CustomStringConvertibleP", "spruce"]
+- !private ["s23CustomStringConvertibleP", "viewDidAppear"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "init"]
+- !private ["6Spruce9DirectionO", "topToBottom"]
+- !private ["6Spruce21DirectionSortFunctionP", "init"]
+- !private ["6Spruce20DistanceSortFunctionP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "LinearSortFunction"]
+- !private ["s9EquatableP", "StandardAnimation"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "animationType"]
+- !private ["s9EquatableP", "animationView"]
+- !private ["s9EquatableP", "animations"]
+- !private ["s9EquatableP", "duration"]
+- !private ["s9EquatableP", "fatalError"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "sortFunction"]
+- !private ["s9EquatableP", "spruce"]
+- !private ["s9EquatableP", "topToBottom"]
+- !private ["s9EquatableP", "viewDidAppear"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "LinearSortFunction"]
+- !private ["s8HashableP", "StandardAnimation"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "animationType"]
+- !private ["s8HashableP", "animationView"]
+- !private ["s8HashableP", "animations"]
+- !private ["s8HashableP", "duration"]
+- !private ["s8HashableP", "fatalError"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "sortFunction"]
+- !private ["s8HashableP", "spruce"]
+- !private ["s8HashableP", "topToBottom"]
+- !private ["s8HashableP", "viewDidAppear"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["6Spruce18LinearSortFunctionV", "deinit"]
+- !private ["6Spruce18LinearSortFunctionV", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["So8NSCodingP", "LinearSortFunction"]
+- !private ["So8NSCodingP", "StandardAnimation"]
+- !private ["So8NSCodingP", "animationType"]
+- !private ["So8NSCodingP", "animationView"]
+- !private ["So8NSCodingP", "animations"]
+- !private ["So8NSCodingP", "duration"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "sortFunction"]
+- !private ["So8NSCodingP", "spruce"]
+- !private ["So8NSCodingP", "viewDidAppear"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "LinearSortFunction"]
+- !private ["So26NSExtensionRequestHandlingP", "StandardAnimation"]
+- !private ["So26NSExtensionRequestHandlingP", "animationType"]
+- !private ["So26NSExtensionRequestHandlingP", "animationView"]
+- !private ["So26NSExtensionRequestHandlingP", "animations"]
+- !private ["So26NSExtensionRequestHandlingP", "duration"]
+- !private ["So26NSExtensionRequestHandlingP", "fatalError"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "sortFunction"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidAppear"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Animation"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "LinearSortFunction"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "SortFunction"]
+- !private ["So8NSObjectC", "StandardAnimation"]
+- ["So8NSObjectC", "StockAnimation"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "animationType"]
+- ["So8NSObjectC", "animationView"]
+- ["So8NSObjectC", "animations"]
+- ["So8NSObjectC", "duration"]
+- !private ["So8NSObjectC", "fatalError"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "sortFunction"]
+- !private ["So8NSObjectC", "spruce"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "LinearSortFunction"]
+- !private ["So16NSObjectProtocolP", "StandardAnimation"]
+- !private ["So16NSObjectProtocolP", "animationType"]
+- !private ["So16NSObjectProtocolP", "animationView"]
+- !private ["So16NSObjectProtocolP", "animations"]
+- !private ["So16NSObjectProtocolP", "duration"]
+- !private ["So16NSObjectProtocolP", "fatalError"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "sortFunction"]
+- !private ["So16NSObjectProtocolP", "spruce"]
+- !private ["So16NSObjectProtocolP", "viewDidAppear"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "init"]
+- !private ["6Spruce12SortFunctionP", "init"]
+- !private ["6SpruceAAV", "animate"]
+- !private ["6SpruceAAV", "prepare"]
+- !private ["6Spruce17StandardAnimationV", "deinit"]
+- !private ["6Spruce17StandardAnimationV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "spruce"]
+- !private ["So12UIAppearanceP", "spruce"]
+- !private ["So21UIAppearanceContainerP", "LinearSortFunction"]
+- !private ["So21UIAppearanceContainerP", "StandardAnimation"]
+- !private ["So21UIAppearanceContainerP", "animationType"]
+- !private ["So21UIAppearanceContainerP", "animationView"]
+- !private ["So21UIAppearanceContainerP", "animations"]
+- !private ["So21UIAppearanceContainerP", "duration"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "sortFunction"]
+- !private ["So21UIAppearanceContainerP", "spruce"]
+- !private ["So21UIAppearanceContainerP", "viewDidAppear"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "LinearSortFunction"]
+- !private ["So18UIContentContainerP", "StandardAnimation"]
+- !private ["So18UIContentContainerP", "animationType"]
+- !private ["So18UIContentContainerP", "animationView"]
+- !private ["So18UIContentContainerP", "animations"]
+- !private ["So18UIContentContainerP", "duration"]
+- !private ["So18UIContentContainerP", "fatalError"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "sortFunction"]
+- !private ["So18UIContentContainerP", "viewDidAppear"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "spruce"]
+- !private ["So13UIDynamicItemP", "spruce"]
+- !private ["So18UIFocusEnvironmentP", "LinearSortFunction"]
+- !private ["So18UIFocusEnvironmentP", "StandardAnimation"]
+- !private ["So18UIFocusEnvironmentP", "animationType"]
+- !private ["So18UIFocusEnvironmentP", "animationView"]
+- !private ["So18UIFocusEnvironmentP", "animations"]
+- !private ["So18UIFocusEnvironmentP", "duration"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "sortFunction"]
+- !private ["So18UIFocusEnvironmentP", "spruce"]
+- !private ["So18UIFocusEnvironmentP", "viewDidAppear"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "spruce"]
+- !private ["So30UIPasteConfigurationSupportingP", "LinearSortFunction"]
+- !private ["So30UIPasteConfigurationSupportingP", "StandardAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "animationType"]
+- !private ["So30UIPasteConfigurationSupportingP", "animationView"]
+- !private ["So30UIPasteConfigurationSupportingP", "animations"]
+- !private ["So30UIPasteConfigurationSupportingP", "duration"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "sortFunction"]
+- !private ["So30UIPasteConfigurationSupportingP", "spruce"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidAppear"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Animation"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "Bundle"]
+- !private ["So11UIResponderC", "LinearSortFunction"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "SortFunction"]
+- !private ["So11UIResponderC", "StandardAnimation"]
+- ["So11UIResponderC", "StockAnimation"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "TimeInterval"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "animationType"]
+- ["So11UIResponderC", "animationView"]
+- ["So11UIResponderC", "animations"]
+- ["So11UIResponderC", "duration"]
+- !private ["So11UIResponderC", "fatalError"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "sortFunction"]
+- !private ["So11UIResponderC", "spruce"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "LinearSortFunction"]
+- !private ["So30UIResponderStandardEditActionsP", "StandardAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "animationType"]
+- !private ["So30UIResponderStandardEditActionsP", "animationView"]
+- !private ["So30UIResponderStandardEditActionsP", "animations"]
+- !private ["So30UIResponderStandardEditActionsP", "duration"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "sortFunction"]
+- !private ["So30UIResponderStandardEditActionsP", "spruce"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "LinearSortFunction"]
+- !private ["So16UIStateRestoringP", "StandardAnimation"]
+- !private ["So16UIStateRestoringP", "animationType"]
+- !private ["So16UIStateRestoringP", "animationView"]
+- !private ["So16UIStateRestoringP", "animations"]
+- !private ["So16UIStateRestoringP", "duration"]
+- !private ["So16UIStateRestoringP", "fatalError"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "sortFunction"]
+- !private ["So16UIStateRestoringP", "viewDidAppear"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "LinearSortFunction"]
+- !private ["So18UITraitEnvironmentP", "StandardAnimation"]
+- !private ["So18UITraitEnvironmentP", "animationType"]
+- !private ["So18UITraitEnvironmentP", "animationView"]
+- !private ["So18UITraitEnvironmentP", "animations"]
+- !private ["So18UITraitEnvironmentP", "duration"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "sortFunction"]
+- !private ["So18UITraitEnvironmentP", "spruce"]
+- !private ["So18UITraitEnvironmentP", "viewDidAppear"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "spruce"]
+- ["So16UIViewControllerC", "Animation"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "Bundle"]
+- !private ["So16UIViewControllerC", "LinearSortFunction"]
+- ["So16UIViewControllerC", "NSCoder"]
+- ["So16UIViewControllerC", "SortFunction"]
+- !private ["So16UIViewControllerC", "StandardAnimation"]
+- ["So16UIViewControllerC", "StockAnimation"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "TimeInterval"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "animationType"]
+- ["So16UIViewControllerC", "animationView"]
+- ["So16UIViewControllerC", "animations"]
+- ["So16UIViewControllerC", "duration"]
+- !private ["So16UIViewControllerC", "fatalError"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "sortFunction"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["6Spruce14ViewControllerC", "Animation"]
+- ["6Spruce14ViewControllerC", "Bool"]
+- ["6Spruce14ViewControllerC", "Bundle"]
+- !private ["6Spruce14ViewControllerC", "LinearSortFunction"]
+- ["6Spruce14ViewControllerC", "NSCoder"]
+- ["6Spruce14ViewControllerC", "SortFunction"]
+- !private ["6Spruce14ViewControllerC", "StandardAnimation"]
+- ["6Spruce14ViewControllerC", "StockAnimation"]
+- ["6Spruce14ViewControllerC", "String"]
+- ["6Spruce14ViewControllerC", "TimeInterval"]
+- ["6Spruce14ViewControllerC", "UIView"]
+- ["6Spruce14ViewControllerC", "animationType"]
+- ["6Spruce14ViewControllerC", "animationView"]
+- ["6Spruce14ViewControllerC", "animations"]
+- ["6Spruce14ViewControllerC", "deinit"]
+- ["6Spruce14ViewControllerC", "duration"]
+- !private ["6Spruce14ViewControllerC", "fatalError"]
+- ["6Spruce14ViewControllerC", "init"]
+- ["6Spruce14ViewControllerC", "sortFunction"]
+- ["6Spruce14ViewControllerC", "viewDidAppear"]
+- ["6Spruce14ViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "spruce"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LinearSortFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "StandardAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sortFunction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "spruce"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidAppear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "6Spruce9AnimationP"
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "6Spruce9DirectionO"
+- !private "6Spruce21DirectionSortFunctionP"
+- !private "6Spruce20DistanceSortFunctionP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "6Spruce18LinearSortFunctionV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "6Spruce12SortFunctionP"
+- !private "6SpruceAAV"
+- !private "6Spruce17StandardAnimationV"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "6Spruce14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Spruce.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "cd8ce7a2b30fb7e7a7e96510f0e25836"

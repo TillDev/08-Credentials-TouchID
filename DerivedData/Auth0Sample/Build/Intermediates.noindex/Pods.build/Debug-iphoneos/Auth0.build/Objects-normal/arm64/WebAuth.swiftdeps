@@ -1,0 +1,187 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "webAuth"
+- "webAuth"
+- "resumeAuth"
+- "WebAuth"
+provides-nominal:
+- "5Auth07WebAuthP"
+provides-member:
+- ["5Auth07WebAuthP", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "Bundle"
+- "Credentials"
+- "Loggable"
+- "ResponseType"
+- "Result"
+- !private "SafariWebAuth"
+- "String"
+- "Telemetry"
+- "Trackable"
+- !private "TransactionStore"
+- "UIApplicationOpenURLOptionsKey"
+- "URL"
+- "Void"
+- "WebAuth"
+- !private "plistValues"
+- "resumeAuth"
+- "webAuth"
+depends-member:
+- !private ["So6BundleC", "main"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "a0_url"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s29CustomPlaygroundQuickLookableP", "a0_url"]
+- !private ["s23CustomStringConvertibleP", "a0_url"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s9DecodableP", "a0_url"]
+- !private ["s9EncodableP", "a0_url"]
+- !private ["s9EquatableP", "a0_url"]
+- !private ["s9EquatableP", "main"]
+- !private ["s8HashableP", "a0_url"]
+- !private ["s8HashableP", "main"]
+- ["5Auth08LoggableP", "Bool"]
+- ["5Auth08LoggableP", "Credentials"]
+- ["5Auth08LoggableP", "ResponseType"]
+- ["5Auth08LoggableP", "Result"]
+- ["5Auth08LoggableP", "String"]
+- ["5Auth08LoggableP", "Telemetry"]
+- ["5Auth08LoggableP", "URL"]
+- ["5Auth08LoggableP", "Void"]
+- ["5Auth08LoggableP", "audience"]
+- ["5Auth08LoggableP", "clearSession"]
+- ["5Auth08LoggableP", "clientId"]
+- ["5Auth08LoggableP", "connection"]
+- ["5Auth08LoggableP", "connectionScope"]
+- !private ["5Auth08LoggableP", "init"]
+- ["5Auth08LoggableP", "nonce"]
+- ["5Auth08LoggableP", "parameters"]
+- ["5Auth08LoggableP", "responseType"]
+- ["5Auth08LoggableP", "scope"]
+- ["5Auth08LoggableP", "start"]
+- ["5Auth08LoggableP", "state"]
+- ["5Auth08LoggableP", "telemetry"]
+- ["5Auth08LoggableP", "url"]
+- ["5Auth08LoggableP", "useLegacyAuthentication"]
+- ["5Auth08LoggableP", "useUniversalLink"]
+- ["5Auth08LoggableP", "usingImplicitGrant"]
+- ["5Auth08LoggableP", ""]
+- !private ["So8NSObjectC", "main"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["10Foundation20ReferenceConvertibleP", "a0_url"]
+- !private ["5Auth013SafariWebAuthC", "deinit"]
+- !private ["5Auth013SafariWebAuthC", "init"]
+- ["5Auth09TrackableP", "Bool"]
+- ["5Auth09TrackableP", "Credentials"]
+- ["5Auth09TrackableP", "ResponseType"]
+- ["5Auth09TrackableP", "Result"]
+- ["5Auth09TrackableP", "String"]
+- ["5Auth09TrackableP", "Telemetry"]
+- ["5Auth09TrackableP", "URL"]
+- ["5Auth09TrackableP", "Void"]
+- ["5Auth09TrackableP", "audience"]
+- ["5Auth09TrackableP", "clearSession"]
+- ["5Auth09TrackableP", "clientId"]
+- ["5Auth09TrackableP", "connection"]
+- ["5Auth09TrackableP", "connectionScope"]
+- !private ["5Auth09TrackableP", "init"]
+- ["5Auth09TrackableP", "nonce"]
+- ["5Auth09TrackableP", "parameters"]
+- ["5Auth09TrackableP", "responseType"]
+- ["5Auth09TrackableP", "scope"]
+- ["5Auth09TrackableP", "start"]
+- ["5Auth09TrackableP", "state"]
+- ["5Auth09TrackableP", "telemetry"]
+- ["5Auth09TrackableP", "url"]
+- ["5Auth09TrackableP", "useLegacyAuthentication"]
+- ["5Auth09TrackableP", "useUniversalLink"]
+- ["5Auth09TrackableP", "usingImplicitGrant"]
+- ["5Auth09TrackableP", ""]
+- !private ["5Auth016TransactionStoreC", "resume"]
+- !private ["5Auth016TransactionStoreC", "shared"]
+- !private ["10Foundation3URLV", "a0_url"]
+- ["5Auth07WebAuthP", "Bool"]
+- ["5Auth07WebAuthP", "Credentials"]
+- ["5Auth07WebAuthP", "ResponseType"]
+- ["5Auth07WebAuthP", "Result"]
+- ["5Auth07WebAuthP", "String"]
+- ["5Auth07WebAuthP", "Telemetry"]
+- ["5Auth07WebAuthP", "URL"]
+- ["5Auth07WebAuthP", "Void"]
+- ["5Auth07WebAuthP", "audience"]
+- ["5Auth07WebAuthP", "clearSession"]
+- ["5Auth07WebAuthP", "clientId"]
+- ["5Auth07WebAuthP", "connection"]
+- ["5Auth07WebAuthP", "connectionScope"]
+- !private ["5Auth07WebAuthP", "init"]
+- ["5Auth07WebAuthP", "nonce"]
+- ["5Auth07WebAuthP", "parameters"]
+- ["5Auth07WebAuthP", "responseType"]
+- ["5Auth07WebAuthP", "scope"]
+- ["5Auth07WebAuthP", "start"]
+- ["5Auth07WebAuthP", "state"]
+- ["5Auth07WebAuthP", "telemetry"]
+- ["5Auth07WebAuthP", "url"]
+- ["5Auth07WebAuthP", "useLegacyAuthentication"]
+- ["5Auth07WebAuthP", "useUniversalLink"]
+- ["5Auth07WebAuthP", "usingImplicitGrant"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "a0_url"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["s21_ObjectiveCBridgeableP", "a0_url"]
+depends-nominal:
+- !private "So6BundleC"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- "5Auth08LoggableP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "5Auth013SafariWebAuthC"
+- "5Auth09TrackableP"
+- !private "5Auth016TransactionStoreC"
+- !private "10Foundation3URLV"
+- "5Auth07WebAuthP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers/LocalAuthentication.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/SafariServices.framework/Headers/SafariServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "890bf62f03ee0de58c81b06f098ab562"

@@ -1,0 +1,151 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NativeAuthCredentials"
+- "NativeAuthTransaction"
+provides-nominal:
+- "5Auth021NativeAuthCredentialsV"
+- "5Auth021NativeAuthTransactionP"
+provides-member:
+- ["5Auth021NativeAuthCredentialsV", ""]
+- ["5Auth021NativeAuthTransactionP", ""]
+- ["5Auth021NativeAuthTransactionP", "state"]
+- ["5Auth021NativeAuthTransactionP", "start"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "AuthTransaction"
+- "Authentication"
+- "Credentials"
+- "NativeAuthCredentials"
+- "NativeAuthTransaction"
+- "Result"
+- "String"
+- !private "TransactionStore"
+- "Void"
+depends-member:
+- ["5Auth015AuthTransactionP", "Authentication"]
+- ["5Auth015AuthTransactionP", "Callback"]
+- ["5Auth015AuthTransactionP", "Credentials"]
+- ["5Auth015AuthTransactionP", "NativeAuthCredentials"]
+- ["5Auth015AuthTransactionP", "Result"]
+- ["5Auth015AuthTransactionP", "String"]
+- !private ["5Auth015AuthTransactionP", "TransactionStore"]
+- ["5Auth015AuthTransactionP", "Void"]
+- ["5Auth015AuthTransactionP", "auth"]
+- ["5Auth015AuthTransactionP", "authentication"]
+- ["5Auth015AuthTransactionP", "connection"]
+- ["5Auth015AuthTransactionP", "parameters"]
+- ["5Auth015AuthTransactionP", "scope"]
+- ["5Auth015AuthTransactionP", ""]
+- !private ["5Auth014AuthenticationP", "loginSocial"]
+- !private ["5Auth019AuthenticationErrorC", "deinit"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "forEach"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "forEach"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["5Auth08LoggableP", "loginSocial"]
+- ["5Auth021NativeAuthCredentialsV", "String"]
+- ["5Auth021NativeAuthCredentialsV", "extras"]
+- ["5Auth021NativeAuthCredentialsV", "init"]
+- ["5Auth021NativeAuthCredentialsV", "token"]
+- ["5Auth021NativeAuthTransactionP", "Authentication"]
+- ["5Auth021NativeAuthTransactionP", "Callback"]
+- ["5Auth021NativeAuthTransactionP", "Credentials"]
+- ["5Auth021NativeAuthTransactionP", "NativeAuthCredentials"]
+- ["5Auth021NativeAuthTransactionP", "Result"]
+- ["5Auth021NativeAuthTransactionP", "String"]
+- !private ["5Auth021NativeAuthTransactionP", "TransactionStore"]
+- ["5Auth021NativeAuthTransactionP", "Void"]
+- ["5Auth021NativeAuthTransactionP", "auth"]
+- ["5Auth021NativeAuthTransactionP", "authentication"]
+- ["5Auth021NativeAuthTransactionP", "connection"]
+- ["5Auth021NativeAuthTransactionP", "parameters"]
+- ["5Auth021NativeAuthTransactionP", "scope"]
+- ["5Auth021NativeAuthTransactionP", "start"]
+- ["5Auth021NativeAuthTransactionP", "state"]
+- !private ["5Auth07RequestV", "deinit"]
+- !private ["5Auth07RequestV", "start"]
+- !private ["5Auth011RequestableP", "start"]
+- !private ["5Auth06ResultO", "failure"]
+- !private ["5Auth06ResultO", "success"]
+- !private ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["5Auth09TrackableP", "loginSocial"]
+- !private ["5Auth016TransactionStoreC", "shared"]
+- !private ["5Auth016TransactionStoreC", "store"]
+- !private ["s10_IndexableP", "forEach"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "5Auth015AuthTransactionP"
+- !private "5Auth014AuthenticationP"
+- !private "5Auth019AuthenticationErrorC"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "s9EncodableP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "5Auth08LoggableP"
+- "5Auth021NativeAuthCredentialsV"
+- "5Auth021NativeAuthTransactionP"
+- !private "5Auth07RequestV"
+- !private "5Auth011RequestableP"
+- !private "5Auth06ResultO"
+- !private "s8SequenceP"
+- !private "5Auth09TrackableP"
+- !private "5Auth016TransactionStoreC"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+interface-hash: "652ff928a189fe49a4fde6b87b69fdc4"

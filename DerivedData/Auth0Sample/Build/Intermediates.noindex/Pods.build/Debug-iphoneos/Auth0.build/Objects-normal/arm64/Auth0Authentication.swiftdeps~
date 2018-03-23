@@ -1,0 +1,412 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Auth0Authentication"
+provides-nominal:
+- "5Auth00A14AuthenticationV"
+provides-member:
+- ["5Auth00A14AuthenticationV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- "AssignmentPrecedence"
+- "Auth0Authentication"
+- "Authentication"
+- "AuthenticationError"
+- "ConcatRequest"
+- !private "ControllerModalPresenter"
+- "Credentials"
+- "DatabaseUser"
+- !private "Dictionary"
+- "Logger"
+- "PasswordlessType"
+- "Profile"
+- "Request"
+- !private "SafariWebAuth"
+- "String"
+- !private "StringLiteralType"
+- "Telemetry"
+- "URL"
+- "URLSession"
+- "UserInfo"
+- "Void"
+- "WebAuth"
+- !private "authenticationObject"
+- !private "databaseUser"
+- !private "noBody"
+- !private "plainJson"
+depends-member:
+- ["5Auth00A14AuthenticationV", "AuthenticationError"]
+- ["5Auth00A14AuthenticationV", "ConcatRequest"]
+- !private ["5Auth00A14AuthenticationV", "ControllerModalPresenter"]
+- ["5Auth00A14AuthenticationV", "Credentials"]
+- ["5Auth00A14AuthenticationV", "DatabaseUser"]
+- ["5Auth00A14AuthenticationV", "Logger"]
+- ["5Auth00A14AuthenticationV", "PasswordlessType"]
+- ["5Auth00A14AuthenticationV", "Profile"]
+- ["5Auth00A14AuthenticationV", "Request"]
+- !private ["5Auth00A14AuthenticationV", "SafariWebAuth"]
+- ["5Auth00A14AuthenticationV", "String"]
+- ["5Auth00A14AuthenticationV", "Telemetry"]
+- ["5Auth00A14AuthenticationV", "URL"]
+- ["5Auth00A14AuthenticationV", "URLSession"]
+- ["5Auth00A14AuthenticationV", "UserInfo"]
+- ["5Auth00A14AuthenticationV", "Void"]
+- ["5Auth00A14AuthenticationV", "WebAuth"]
+- !private ["5Auth00A14AuthenticationV", "authenticationObject"]
+- ["5Auth00A14AuthenticationV", "clientId"]
+- ["5Auth00A14AuthenticationV", "createUser"]
+- !private ["5Auth00A14AuthenticationV", "databaseUser"]
+- ["5Auth00A14AuthenticationV", "deinit"]
+- ["5Auth00A14AuthenticationV", "delegation"]
+- ["5Auth00A14AuthenticationV", "init"]
+- ["5Auth00A14AuthenticationV", "logger"]
+- ["5Auth00A14AuthenticationV", "login"]
+- ["5Auth00A14AuthenticationV", "loginSocial"]
+- !private ["5Auth00A14AuthenticationV", "noBody"]
+- !private ["5Auth00A14AuthenticationV", "plainJson"]
+- ["5Auth00A14AuthenticationV", "renew"]
+- ["5Auth00A14AuthenticationV", "resetPassword"]
+- ["5Auth00A14AuthenticationV", "revoke"]
+- ["5Auth00A14AuthenticationV", "session"]
+- ["5Auth00A14AuthenticationV", "signUp"]
+- ["5Auth00A14AuthenticationV", "startPasswordless"]
+- ["5Auth00A14AuthenticationV", "telemetry"]
+- ["5Auth00A14AuthenticationV", "tokenExchange"]
+- ["5Auth00A14AuthenticationV", "tokenInfo"]
+- ["5Auth00A14AuthenticationV", "url"]
+- ["5Auth00A14AuthenticationV", "userInfo"]
+- ["5Auth00A14AuthenticationV", "webAuth"]
+- !private ["5Auth014AuthenticationP", "ConcatRequest"]
+- !private ["5Auth014AuthenticationP", "ControllerModalPresenter"]
+- !private ["5Auth014AuthenticationP", "Request"]
+- !private ["5Auth014AuthenticationP", "SafariWebAuth"]
+- !private ["5Auth014AuthenticationP", "Telemetry"]
+- !private ["5Auth014AuthenticationP", "URL"]
+- !private ["5Auth014AuthenticationP", "URLSession"]
+- !private ["5Auth014AuthenticationP", "authenticationObject"]
+- ["5Auth014AuthenticationP", "clientId"]
+- ["5Auth014AuthenticationP", "createUser"]
+- !private ["5Auth014AuthenticationP", "databaseUser"]
+- ["5Auth014AuthenticationP", "delegation"]
+- ["5Auth014AuthenticationP", "logger"]
+- ["5Auth014AuthenticationP", "login"]
+- ["5Auth014AuthenticationP", "loginSocial"]
+- !private ["5Auth014AuthenticationP", "noBody"]
+- !private ["5Auth014AuthenticationP", "plainJson"]
+- ["5Auth014AuthenticationP", "renew"]
+- ["5Auth014AuthenticationP", "resetPassword"]
+- ["5Auth014AuthenticationP", "revoke"]
+- !private ["5Auth014AuthenticationP", "session"]
+- ["5Auth014AuthenticationP", "signUp"]
+- ["5Auth014AuthenticationP", "startPasswordless"]
+- ["5Auth014AuthenticationP", "telemetry"]
+- ["5Auth014AuthenticationP", "tokenExchange"]
+- ["5Auth014AuthenticationP", "tokenInfo"]
+- ["5Auth014AuthenticationP", "url"]
+- ["5Auth014AuthenticationP", "userInfo"]
+- ["5Auth014AuthenticationP", "webAuth"]
+- ["5Auth014AuthenticationP", ""]
+- ["5Auth019AuthenticationErrorC", "deinit"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "isEmpty"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["5Auth013ConcatRequestV", "init"]
+- !private ["5Auth024ControllerModalPresenterV", "init"]
+- !private ["5Auth011CredentialsC", "deinit"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "isEmpty"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "forEach"]
+- !private ["s10DictionaryV", "isEmpty"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "isEmpty"]
+- !private ["s9EncodableP", "subscript"]
+- ["s9EquatableP", "WebLink"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "shared"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "forEach"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "isEmpty"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s8HashableP", "WebLink"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "rawValue"]
+- !private ["s8HashableP", "shared"]
+- !private ["5Auth08LoggableP", "ConcatRequest"]
+- !private ["5Auth08LoggableP", "ControllerModalPresenter"]
+- !private ["5Auth08LoggableP", "Request"]
+- !private ["5Auth08LoggableP", "SafariWebAuth"]
+- !private ["5Auth08LoggableP", "Telemetry"]
+- !private ["5Auth08LoggableP", "URL"]
+- !private ["5Auth08LoggableP", "URLSession"]
+- !private ["5Auth08LoggableP", "authenticationObject"]
+- ["5Auth08LoggableP", "clientId"]
+- !private ["5Auth08LoggableP", "connection"]
+- ["5Auth08LoggableP", "createUser"]
+- !private ["5Auth08LoggableP", "databaseUser"]
+- ["5Auth08LoggableP", "delegation"]
+- !private ["5Auth08LoggableP", "init"]
+- ["5Auth08LoggableP", "logger"]
+- !private ["5Auth08LoggableP", "logging"]
+- ["5Auth08LoggableP", "login"]
+- ["5Auth08LoggableP", "loginSocial"]
+- !private ["5Auth08LoggableP", "noBody"]
+- !private ["5Auth08LoggableP", "plainJson"]
+- ["5Auth08LoggableP", "renew"]
+- ["5Auth08LoggableP", "resetPassword"]
+- ["5Auth08LoggableP", "revoke"]
+- !private ["5Auth08LoggableP", "session"]
+- ["5Auth08LoggableP", "signUp"]
+- ["5Auth08LoggableP", "startPasswordless"]
+- ["5Auth08LoggableP", "telemetry"]
+- ["5Auth08LoggableP", "tokenExchange"]
+- ["5Auth08LoggableP", "tokenInfo"]
+- ["5Auth08LoggableP", "url"]
+- ["5Auth08LoggableP", "userInfo"]
+- ["5Auth08LoggableP", "webAuth"]
+- ["5Auth08LoggableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "shared"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- ["5Auth016PasswordlessTypeO", "WebLink"]
+- !private ["5Auth016PasswordlessTypeO", "deinit"]
+- !private ["5Auth016PasswordlessTypeO", "rawValue"]
+- !private ["5Auth07ProfileC", "deinit"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "WebLink"]
+- !private ["s16RawRepresentableP", "rawValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["5Auth07RequestV", "init"]
+- !private ["5Auth011RequestableP", "init"]
+- !private ["5Auth013SafariWebAuthC", "connection"]
+- !private ["5Auth013SafariWebAuthC", "deinit"]
+- !private ["5Auth013SafariWebAuthC", "init"]
+- !private ["5Auth013SafariWebAuthC", "logging"]
+- !private ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "isEmpty"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["5Auth09TelemetryV", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["5Auth09TrackableP", "ConcatRequest"]
+- !private ["5Auth09TrackableP", "ControllerModalPresenter"]
+- !private ["5Auth09TrackableP", "Request"]
+- !private ["5Auth09TrackableP", "SafariWebAuth"]
+- !private ["5Auth09TrackableP", "Telemetry"]
+- !private ["5Auth09TrackableP", "URL"]
+- !private ["5Auth09TrackableP", "URLSession"]
+- !private ["5Auth09TrackableP", "authenticationObject"]
+- ["5Auth09TrackableP", "clientId"]
+- !private ["5Auth09TrackableP", "connection"]
+- ["5Auth09TrackableP", "createUser"]
+- !private ["5Auth09TrackableP", "databaseUser"]
+- ["5Auth09TrackableP", "delegation"]
+- !private ["5Auth09TrackableP", "init"]
+- ["5Auth09TrackableP", "logger"]
+- !private ["5Auth09TrackableP", "logging"]
+- ["5Auth09TrackableP", "login"]
+- ["5Auth09TrackableP", "loginSocial"]
+- !private ["5Auth09TrackableP", "noBody"]
+- !private ["5Auth09TrackableP", "plainJson"]
+- ["5Auth09TrackableP", "renew"]
+- ["5Auth09TrackableP", "resetPassword"]
+- ["5Auth09TrackableP", "revoke"]
+- !private ["5Auth09TrackableP", "session"]
+- ["5Auth09TrackableP", "signUp"]
+- ["5Auth09TrackableP", "startPasswordless"]
+- ["5Auth09TrackableP", "telemetry"]
+- ["5Auth09TrackableP", "tokenExchange"]
+- ["5Auth09TrackableP", "tokenInfo"]
+- ["5Auth09TrackableP", "url"]
+- ["5Auth09TrackableP", "userInfo"]
+- ["5Auth09TrackableP", "webAuth"]
+- ["5Auth09TrackableP", ""]
+- !private ["10Foundation3URLV", "init"]
+- !private ["So10URLSessionC", "shared"]
+- !private ["5Auth08UserInfoC", "deinit"]
+- !private ["5Auth07WebAuthP", "connection"]
+- !private ["5Auth07WebAuthP", "init"]
+- !private ["5Auth07WebAuthP", "logging"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "forEach"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "isEmpty"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "isEmpty"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "5Auth00A14AuthenticationV"
+- "5Auth014AuthenticationP"
+- "5Auth019AuthenticationErrorC"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "5Auth013ConcatRequestV"
+- !private "5Auth024ControllerModalPresenterV"
+- !private "5Auth011CredentialsC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "5Auth08LoggableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "5Auth016PasswordlessTypeO"
+- !private "5Auth07ProfileC"
+- !private "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "5Auth07RequestV"
+- !private "5Auth011RequestableP"
+- !private "5Auth013SafariWebAuthC"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "5Auth09TelemetryV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "5Auth09TrackableP"
+- !private "10Foundation3URLV"
+- !private "So10URLSessionC"
+- !private "5Auth08UserInfoC"
+- !private "5Auth07WebAuthP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers/LocalAuthentication.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/SafariServices.framework/Headers/SafariServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "cb8c349737a35148c5ade0bc10d1a9f7"

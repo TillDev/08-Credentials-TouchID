@@ -1,0 +1,76 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RadialSortFunction"
+provides-nominal:
+- "6Spruce18RadialSortFunctionV"
+provides-member:
+- ["6Spruce18RadialSortFunctionV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Position"
+- "PositionSortFunction"
+- "RadialSortFunction"
+- "TimeInterval"
+depends-member:
+- ["6Spruce20DistanceSortFunctionP", "distanceBetween"]
+- ["6Spruce20DistanceSortFunctionP", "distancePoint"]
+- ["6Spruce20DistanceSortFunctionP", "interObjectDelay"]
+- ["6Spruce20DistanceSortFunctionP", "position"]
+- ["6Spruce20DistanceSortFunctionP", "reversed"]
+- ["6Spruce20DistanceSortFunctionP", "timeOffsets"]
+- ["6Spruce20DistanceSortFunctionP", "translate"]
+- ["6Spruce20DistanceSortFunctionP", ""]
+- ["6Spruce20PositionSortFunctionP", "distanceBetween"]
+- ["6Spruce20PositionSortFunctionP", "distancePoint"]
+- ["6Spruce20PositionSortFunctionP", "interObjectDelay"]
+- ["6Spruce20PositionSortFunctionP", "position"]
+- ["6Spruce20PositionSortFunctionP", "reversed"]
+- ["6Spruce20PositionSortFunctionP", "timeOffsets"]
+- ["6Spruce20PositionSortFunctionP", "translate"]
+- ["6Spruce20PositionSortFunctionP", ""]
+- ["6Spruce18RadialSortFunctionV", "Bool"]
+- ["6Spruce18RadialSortFunctionV", "Position"]
+- ["6Spruce18RadialSortFunctionV", "TimeInterval"]
+- ["6Spruce18RadialSortFunctionV", "deinit"]
+- ["6Spruce18RadialSortFunctionV", "distanceBetween"]
+- ["6Spruce18RadialSortFunctionV", "distancePoint"]
+- ["6Spruce18RadialSortFunctionV", "init"]
+- ["6Spruce18RadialSortFunctionV", "interObjectDelay"]
+- ["6Spruce18RadialSortFunctionV", "position"]
+- ["6Spruce18RadialSortFunctionV", "reversed"]
+- ["6Spruce18RadialSortFunctionV", "timeOffsets"]
+- ["6Spruce18RadialSortFunctionV", "translate"]
+- ["6Spruce12SortFunctionP", "distanceBetween"]
+- ["6Spruce12SortFunctionP", "distancePoint"]
+- ["6Spruce12SortFunctionP", "interObjectDelay"]
+- ["6Spruce12SortFunctionP", "position"]
+- ["6Spruce12SortFunctionP", "reversed"]
+- ["6Spruce12SortFunctionP", "timeOffsets"]
+- ["6Spruce12SortFunctionP", "translate"]
+- ["6Spruce12SortFunctionP", ""]
+depends-nominal:
+- "6Spruce20DistanceSortFunctionP"
+- "6Spruce20PositionSortFunctionP"
+- "6Spruce18RadialSortFunctionV"
+- "6Spruce12SortFunctionP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Spruce.build/unextended-module.modulemap"
+interface-hash: "f2cdff38a7d3cc9dae8343f76da44f20"

@@ -1,0 +1,288 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Button"
+provides-nominal:
+- "6Spruce6ButtonC"
+provides-member:
+- ["6Spruce6ButtonC", ""]
+provides-dynamic-lookup:
+- "isHighlighted"
+depends-top-level:
+- "Animation"
+- "AssignmentPrecedence"
+- "Bool"
+- "Button"
+- !private "ChangeFunction"
+- "StandardAnimation"
+- "StockAnimation"
+- "UIButton"
+depends-member:
+- !private ["6Spruce9AnimationP", "animate"]
+- !private ["6Spruce9AnimationP", "changeFunction"]
+- ["6Spruce9AnimationP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["6Spruce6ButtonC", "Animation"]
+- ["6Spruce6ButtonC", "Bool"]
+- !private ["6Spruce6ButtonC", "ChangeFunction"]
+- ["6Spruce6ButtonC", "StandardAnimation"]
+- ["6Spruce6ButtonC", "StockAnimation"]
+- ["6Spruce6ButtonC", "animation"]
+- ["6Spruce6ButtonC", "animationType"]
+- ["6Spruce6ButtonC", "deinit"]
+- ["6Spruce6ButtonC", "init"]
+- ["6Spruce6ButtonC", "isHighlighted"]
+- ["So15CALayerDelegateP", "StandardAnimation"]
+- !private ["So15CALayerDelegateP", "animation"]
+- !private ["So15CALayerDelegateP", "animationType"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "isHighlighted"]
+- ["So15CALayerDelegateP", ""]
+- ["s7CVarArgP", "StandardAnimation"]
+- !private ["s7CVarArgP", "animation"]
+- !private ["s7CVarArgP", "animationType"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isHighlighted"]
+- ["s7CVarArgP", ""]
+- ["s28CustomDebugStringConvertibleP", "StandardAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "animation"]
+- !private ["s28CustomDebugStringConvertibleP", "animationType"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isHighlighted"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "StandardAnimation"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "animation"]
+- !private ["s23CustomStringConvertibleP", "animationType"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isHighlighted"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "StandardAnimation"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "animation"]
+- !private ["s9EquatableP", "animationType"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isHighlighted"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "StandardAnimation"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "animation"]
+- !private ["s8HashableP", "animationType"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isHighlighted"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["So8NSCodingP", "StandardAnimation"]
+- !private ["So8NSCodingP", "animation"]
+- !private ["So8NSCodingP", "animationType"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isHighlighted"]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", "Animation"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "ChangeFunction"]
+- ["So8NSObjectC", "StandardAnimation"]
+- ["So8NSObjectC", "StockAnimation"]
+- ["So8NSObjectC", "animation"]
+- ["So8NSObjectC", "animationType"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isHighlighted"]
+- ["So16NSObjectProtocolP", "StandardAnimation"]
+- !private ["So16NSObjectProtocolP", "animation"]
+- !private ["So16NSObjectProtocolP", "animationType"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isHighlighted"]
+- ["So16NSObjectProtocolP", ""]
+- ["6Spruce5ScaleO", "slightly"]
+- ["6Spruce17StandardAnimationV", "deinit"]
+- ["6Spruce17StandardAnimationV", "init"]
+- !private ["6Spruce14StockAnimationO", "animationFunction"]
+- ["6Spruce14StockAnimationO", "expand"]
+- !private ["6Spruce14StockAnimationO", "prepareFunction"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "StandardAnimation"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "animation"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "animationType"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "isHighlighted"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- ["So29UIAccessibilityIdentificationP", "StandardAnimation"]
+- !private ["So29UIAccessibilityIdentificationP", "animation"]
+- !private ["So29UIAccessibilityIdentificationP", "animationType"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isHighlighted"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So12UIAppearanceP", "StandardAnimation"]
+- !private ["So12UIAppearanceP", "animation"]
+- !private ["So12UIAppearanceP", "animationType"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "isHighlighted"]
+- ["So12UIAppearanceP", ""]
+- ["So21UIAppearanceContainerP", "StandardAnimation"]
+- !private ["So21UIAppearanceContainerP", "animation"]
+- !private ["So21UIAppearanceContainerP", "animationType"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isHighlighted"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So8UIButtonC", "Animation"]
+- ["So8UIButtonC", "Bool"]
+- !private ["So8UIButtonC", "ChangeFunction"]
+- ["So8UIButtonC", "StandardAnimation"]
+- ["So8UIButtonC", "StockAnimation"]
+- ["So8UIButtonC", "animation"]
+- ["So8UIButtonC", "animationType"]
+- ["So8UIButtonC", "init"]
+- ["So8UIButtonC", "isHighlighted"]
+- ["So8UIButtonC", ""]
+- ["So9UIControlC", "Animation"]
+- ["So9UIControlC", "Bool"]
+- !private ["So9UIControlC", "ChangeFunction"]
+- ["So9UIControlC", "StandardAnimation"]
+- ["So9UIControlC", "StockAnimation"]
+- ["So9UIControlC", "animation"]
+- ["So9UIControlC", "animationType"]
+- ["So9UIControlC", "init"]
+- ["So9UIControlC", "isHighlighted"]
+- ["So17UICoordinateSpaceP", "StandardAnimation"]
+- !private ["So17UICoordinateSpaceP", "animation"]
+- !private ["So17UICoordinateSpaceP", "animationType"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "isHighlighted"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So13UIDynamicItemP", "StandardAnimation"]
+- !private ["So13UIDynamicItemP", "animation"]
+- !private ["So13UIDynamicItemP", "animationType"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isHighlighted"]
+- ["So13UIDynamicItemP", ""]
+- ["So18UIFocusEnvironmentP", "StandardAnimation"]
+- !private ["So18UIFocusEnvironmentP", "animation"]
+- !private ["So18UIFocusEnvironmentP", "animationType"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isHighlighted"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So11UIFocusItemP", "StandardAnimation"]
+- !private ["So11UIFocusItemP", "animation"]
+- !private ["So11UIFocusItemP", "animationType"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "isHighlighted"]
+- ["So11UIFocusItemP", ""]
+- ["So30UIPasteConfigurationSupportingP", "StandardAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "animation"]
+- !private ["So30UIPasteConfigurationSupportingP", "animationType"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isHighlighted"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Animation"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "ChangeFunction"]
+- ["So11UIResponderC", "StandardAnimation"]
+- ["So11UIResponderC", "StockAnimation"]
+- ["So11UIResponderC", "animation"]
+- ["So11UIResponderC", "animationType"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "isHighlighted"]
+- ["So30UIResponderStandardEditActionsP", "StandardAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "animation"]
+- !private ["So30UIResponderStandardEditActionsP", "animationType"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isHighlighted"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So35UISpringLoadedInteractionSupportingP", "StandardAnimation"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "animation"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "animationType"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isHighlighted"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- ["So18UITraitEnvironmentP", "StandardAnimation"]
+- !private ["So18UITraitEnvironmentP", "animation"]
+- !private ["So18UITraitEnvironmentP", "animationType"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isHighlighted"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So6UIViewC", "Animation"]
+- ["So6UIViewC", "Bool"]
+- !private ["So6UIViewC", "ChangeFunction"]
+- ["So6UIViewC", "StandardAnimation"]
+- ["So6UIViewC", "StockAnimation"]
+- ["So6UIViewC", "animation"]
+- ["So6UIViewC", "animationType"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "isHighlighted"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "StandardAnimation"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animation"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animationType"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isHighlighted"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "StandardAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHighlighted"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- "6Spruce9AnimationP"
+- !private "Sb"
+- "6Spruce6ButtonC"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "6Spruce5ScaleO"
+- "6Spruce17StandardAnimationV"
+- "6Spruce14StockAnimationO"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Spruce.build/unextended-module.modulemap"
+interface-hash: "10b6a60644feeec7161d480e968b5dc1"

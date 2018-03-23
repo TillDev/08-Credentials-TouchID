@@ -1,0 +1,940 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SafariWebAuth"
+provides-nominal:
+- "5Auth013SafariWebAuthC"
+provides-member:
+- ["5Auth013SafariWebAuthC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+"
+- !private "=="
+- !private "??"
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "Auth0Authentication"
+- "Bool"
+- "BooleanLiteralType"
+- !private "Bundle"
+- "ControllerModalPresenter"
+- "Credentials"
+- !private "Data"
+- !private "DispatchQueue"
+- !private "ImplicitGrant"
+- !private "Int"
+- "Logger"
+- "OAuth2Grant"
+- !private "PKCE"
+- "ResponseType"
+- "Result"
+- "SFSafariViewController"
+- !private "SafariAuthenticationSession"
+- !private "SafariAuthenticationSessionCallback"
+- !private "SafariSession"
+- "SafariWebAuth"
+- !private "SecRandomCopyBytes"
+- !private "SilentSafariViewController"
+- "String"
+- "StringLiteralType"
+- "Telemetry"
+- "TernaryPrecedence"
+- "TransactionStore"
+- !private "UInt8"
+- "URL"
+- !private "URLComponents"
+- !private "URLQueryItem"
+- !private "UnicodeScalarType"
+- !private "UnsafeMutablePointer"
+- "Void"
+- "WebAuth"
+- !private "WebAuthError"
+- !private "generateDefaultState"
+- !private "kSecRandomDefault"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "joined"]
+- !private ["Sa", "map"]
+- !private ["5Auth00A14AuthenticationV", "deinit"]
+- !private ["5Auth00A14AuthenticationV", "init"]
+- !private ["5Auth00A14AuthenticationV", "logger"]
+- !private ["5Auth015AuthTransactionP", "init"]
+- !private ["5Auth014AuthenticationP", "init"]
+- !private ["5Auth014AuthenticationP", "logger"]
+- !private ["s23BidirectionalCollectionP", "a0_encodeBase64URLSafe"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "contains"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "hasPrefix"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "joined"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s23BidirectionalCollectionP", "withUnsafeMutableBytes"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So6BundleC", "bundleIdentifier"]
+- !private ["So6BundleC", "main"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "bundleIdentifier"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "hasPrefix"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "presentingViewController"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "a0_encodeBase64URLSafe"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s10CollectionP", "hasPrefix"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "joined"]
+- !private ["s10CollectionP", "map"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10CollectionP", "withUnsafeMutableBytes"]
+- !private ["s10ComparableP", "hasPrefix"]
+- ["s10ComparableP", "init"]
+- !private ["5Auth024ControllerModalPresenterV", "init"]
+- !private ["5Auth024ControllerModalPresenterV", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "a0_encodeBase64URLSafe"]
+- !private ["s28CustomDebugStringConvertibleP", "absoluteString"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "bundleIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "hasPrefix"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "presentingViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "queryItems"]
+- !private ["s28CustomDebugStringConvertibleP", "scheme"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "withUnsafeMutableBytes"]
+- !private ["10Foundation13CustomNSErrorP", "cannotDismissWebAuthController"]
+- !private ["10Foundation13CustomNSErrorP", "noBundleIdentifierFound"]
+- !private ["10Foundation13CustomNSErrorP", "noNonceProvided"]
+- !private ["10Foundation13CustomNSErrorP", "userCancelled"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "absoluteString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hasPrefix"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "a0_encodeBase64URLSafe"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "hasPrefix"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "queryItems"]
+- !private ["s17CustomReflectableP", "scheme"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "url"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s17CustomReflectableP", "withUnsafeMutableBytes"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "a0_encodeBase64URLSafe"]
+- !private ["s23CustomStringConvertibleP", "absoluteString"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "bundleIdentifier"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "hasPrefix"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "presentingViewController"]
+- !private ["s23CustomStringConvertibleP", "queryItems"]
+- !private ["s23CustomStringConvertibleP", "scheme"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "withUnsafeMutableBytes"]
+- !private ["10Foundation4DataV", "a0_encodeBase64URLSafe"]
+- !private ["10Foundation4DataV", "count"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation4DataV", "withUnsafeMutableBytes"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "a0_encodeBase64URLSafe"]
+- !private ["s9DecodableP", "absoluteString"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "appendingPathComponent"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9DecodableP", "hasPrefix"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "joined"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "withUnsafeMutableBytes"]
+- !private ["s10DictionaryV", "forEach"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["So14DispatchObjectC", "async"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "async"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "a0_encodeBase64URLSafe"]
+- !private ["s9EncodableP", "absoluteString"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "appendingPathComponent"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EncodableP", "hasPrefix"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "joined"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "withUnsafeMutableBytes"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "a0_encodeBase64URLSafe"]
+- !private ["s9EquatableP", "absoluteString"]
+- !private ["s9EquatableP", "appendingPathComponent"]
+- !private ["s9EquatableP", "async"]
+- !private ["s9EquatableP", "bundleIdentifier"]
+- ["s9EquatableP", "code"]
+- !private ["s9EquatableP", "count"]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "dismiss"]
+- !private ["s9EquatableP", "hasPrefix"]
+- !private ["s9EquatableP", "idToken"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "label"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "presentingViewController"]
+- !private ["s9EquatableP", "queryItems"]
+- !private ["s9EquatableP", "scheme"]
+- !private ["s9EquatableP", "token"]
+- !private ["s9EquatableP", "url"]
+- !private ["s9EquatableP", "value"]
+- !private ["s9EquatableP", "withUnsafeMutableBytes"]
+- !private ["s5ErrorP", "cannotDismissWebAuthController"]
+- !private ["s5ErrorP", "noBundleIdentifierFound"]
+- !private ["s5ErrorP", "noNonceProvided"]
+- !private ["s5ErrorP", "userCancelled"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "code"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "idToken"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "label"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "token"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "forEach"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "hasPrefix"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasPrefix"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "a0_encodeBase64URLSafe"]
+- !private ["s8HashableP", "absoluteString"]
+- !private ["s8HashableP", "appendingPathComponent"]
+- !private ["s8HashableP", "async"]
+- !private ["s8HashableP", "bundleIdentifier"]
+- !private ["s8HashableP", "count"]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "dismiss"]
+- !private ["s8HashableP", "hasPrefix"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "presentingViewController"]
+- !private ["s8HashableP", "queryItems"]
+- !private ["s8HashableP", "scheme"]
+- !private ["s8HashableP", "url"]
+- !private ["s8HashableP", "value"]
+- !private ["s8HashableP", "withUnsafeMutableBytes"]
+- !private ["5Auth013ImplicitGrantV", "deinit"]
+- !private ["5Auth013ImplicitGrantV", "init"]
+- !private ["Si", "init"]
+- !private ["5Auth08LoggableP", "Auth0Authentication"]
+- !private ["5Auth08LoggableP", "Bundle"]
+- !private ["5Auth08LoggableP", "ControllerModalPresenter"]
+- !private ["5Auth08LoggableP", "DispatchQueue"]
+- !private ["5Auth08LoggableP", "ImplicitGrant"]
+- !private ["5Auth08LoggableP", "NoBundleIdentifier"]
+- !private ["5Auth08LoggableP", "PKCE"]
+- !private ["5Auth08LoggableP", "Result"]
+- !private ["5Auth08LoggableP", "SFSafariViewController"]
+- !private ["5Auth08LoggableP", "SafariAuthenticationSession"]
+- !private ["5Auth08LoggableP", "SafariAuthenticationSessionCallback"]
+- !private ["5Auth08LoggableP", "SafariSession"]
+- !private ["5Auth08LoggableP", "SafariWebAuth"]
+- !private ["5Auth08LoggableP", "SilentSafariViewController"]
+- !private ["5Auth08LoggableP", "Telemetry"]
+- !private ["5Auth08LoggableP", "TransactionStore"]
+- !private ["5Auth08LoggableP", "URL"]
+- !private ["5Auth08LoggableP", "URLComponents"]
+- !private ["5Auth08LoggableP", "URLQueryItem"]
+- !private ["5Auth08LoggableP", "WebAuthError"]
+- ["5Auth08LoggableP", "audience"]
+- !private ["5Auth08LoggableP", "authenticationSession"]
+- !private ["5Auth08LoggableP", "buildAuthorizeURL"]
+- ["5Auth08LoggableP", "clearSession"]
+- ["5Auth08LoggableP", "clientId"]
+- ["5Auth08LoggableP", "connection"]
+- ["5Auth08LoggableP", "connectionScope"]
+- !private ["5Auth08LoggableP", "generateDefaultState"]
+- !private ["5Auth08LoggableP", "handler"]
+- !private ["5Auth08LoggableP", "init"]
+- ["5Auth08LoggableP", "logger"]
+- !private ["5Auth08LoggableP", "newSafari"]
+- ["5Auth08LoggableP", "nonce"]
+- ["5Auth08LoggableP", "parameters"]
+- !private ["5Auth08LoggableP", "presenter"]
+- !private ["5Auth08LoggableP", "redirectURL"]
+- ["5Auth08LoggableP", "responseType"]
+- ["5Auth08LoggableP", "scope"]
+- ["5Auth08LoggableP", "start"]
+- ["5Auth08LoggableP", "state"]
+- !private ["5Auth08LoggableP", "storage"]
+- ["5Auth08LoggableP", "telemetry"]
+- !private ["5Auth08LoggableP", "universalLink"]
+- ["5Auth08LoggableP", "url"]
+- ["5Auth08LoggableP", "useLegacyAuthentication"]
+- ["5Auth08LoggableP", "useUniversalLink"]
+- ["5Auth08LoggableP", "usingImplicitGrant"]
+- ["5Auth08LoggableP", ""]
+- !private ["5Auth06LoggerP", "trace"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hasPrefix"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hasPrefix"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "a0_encodeBase64URLSafe"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "contains"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "init"]
+- !private ["s17MutableCollectionP", "joined"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["s17MutableCollectionP", "withUnsafeMutableBytes"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "hasPrefix"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "presentingViewController"]
+- !private ["So9NSCopyingP", "hasPrefix"]
+- ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "delegate"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "presentingViewController"]
+- !private ["So21NSItemProviderReadingP", "hasPrefix"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "hasPrefix"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "hasPrefix"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "bundleIdentifier"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "hasPrefix"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "presentingViewController"]
+- !private ["So16NSObjectProtocolP", "async"]
+- !private ["So16NSObjectProtocolP", "bundleIdentifier"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "dismiss"]
+- !private ["So16NSObjectProtocolP", "hasPrefix"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "presentingViewController"]
+- !private ["So14NSSecureCodingP", "hasPrefix"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "hasPrefix"]
+- ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["5Auth011OAuth2GrantP", "defaults"]
+- !private ["5Auth011OAuth2GrantP", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- ["s9OptionSetP", "code"]
+- !private ["s9OptionSetP", "idToken"]
+- !private ["s9OptionSetP", "label"]
+- !private ["s9OptionSetP", "token"]
+- !private ["5Auth04PKCEV", "deinit"]
+- !private ["5Auth04PKCEV", "init"]
+- !private ["s22RandomAccessCollectionP", "a0_encodeBase64URLSafe"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "contains"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "init"]
+- !private ["s22RandomAccessCollectionP", "joined"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s22RandomAccessCollectionP", "withUnsafeMutableBytes"]
+- !private ["s26RangeReplaceableCollectionP", "a0_encodeBase64URLSafe"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "contains"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- !private ["s26RangeReplaceableCollectionP", "hasPrefix"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "joined"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "withUnsafeMutableBytes"]
+- ["s16RawRepresentableP", "code"]
+- !private ["s16RawRepresentableP", "idToken"]
+- !private ["s16RawRepresentableP", "label"]
+- !private ["s16RawRepresentableP", "token"]
+- !private ["10Foundation20ReferenceConvertibleP", "a0_encodeBase64URLSafe"]
+- !private ["10Foundation20ReferenceConvertibleP", "absoluteString"]
+- !private ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "count"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "queryItems"]
+- !private ["10Foundation20ReferenceConvertibleP", "scheme"]
+- !private ["10Foundation20ReferenceConvertibleP", "url"]
+- !private ["10Foundation20ReferenceConvertibleP", "value"]
+- !private ["10Foundation20ReferenceConvertibleP", "withUnsafeMutableBytes"]
+- ["5Auth012ResponseTypeV", "code"]
+- !private ["5Auth012ResponseTypeV", "deinit"]
+- !private ["5Auth012ResponseTypeV", "idToken"]
+- !private ["5Auth012ResponseTypeV", "label"]
+- !private ["5Auth012ResponseTypeV", "token"]
+- !private ["5Auth06ResultO", "failure"]
+- !private ["So22SFSafariViewControllerC", "delegate"]
+- !private ["So22SFSafariViewControllerC", "init"]
+- !private ["So22SFSafariViewControllerC", "presentingViewController"]
+- !private ["So30SFSafariViewControllerDelegateP", "init"]
+- !private ["5Auth027SafariAuthenticationSessionC", "deinit"]
+- !private ["5Auth027SafariAuthenticationSessionC", "init"]
+- !private ["5Auth035SafariAuthenticationSessionCallbackC", "deinit"]
+- !private ["5Auth035SafariAuthenticationSessionCallbackC", "init"]
+- !private ["5Auth013SafariSessionC", "deinit"]
+- !private ["5Auth013SafariSessionC", "init"]
+- !private ["5Auth013SafariWebAuthC", "Auth0Authentication"]
+- ["5Auth013SafariWebAuthC", "Bool"]
+- !private ["5Auth013SafariWebAuthC", "Bundle"]
+- ["5Auth013SafariWebAuthC", "ControllerModalPresenter"]
+- ["5Auth013SafariWebAuthC", "Credentials"]
+- !private ["5Auth013SafariWebAuthC", "DispatchQueue"]
+- !private ["5Auth013SafariWebAuthC", "ImplicitGrant"]
+- ["5Auth013SafariWebAuthC", "Logger"]
+- !private ["5Auth013SafariWebAuthC", "NoBundleIdentifier"]
+- ["5Auth013SafariWebAuthC", "OAuth2Grant"]
+- !private ["5Auth013SafariWebAuthC", "PKCE"]
+- ["5Auth013SafariWebAuthC", "ResponseType"]
+- ["5Auth013SafariWebAuthC", "Result"]
+- ["5Auth013SafariWebAuthC", "SFSafariViewController"]
+- !private ["5Auth013SafariWebAuthC", "SafariAuthenticationSession"]
+- !private ["5Auth013SafariWebAuthC", "SafariAuthenticationSessionCallback"]
+- !private ["5Auth013SafariWebAuthC", "SafariSession"]
+- !private ["5Auth013SafariWebAuthC", "SafariWebAuth"]
+- !private ["5Auth013SafariWebAuthC", "SilentSafariViewController"]
+- ["5Auth013SafariWebAuthC", "String"]
+- ["5Auth013SafariWebAuthC", "Telemetry"]
+- ["5Auth013SafariWebAuthC", "TransactionStore"]
+- ["5Auth013SafariWebAuthC", "URL"]
+- !private ["5Auth013SafariWebAuthC", "URLComponents"]
+- !private ["5Auth013SafariWebAuthC", "URLQueryItem"]
+- ["5Auth013SafariWebAuthC", "Void"]
+- !private ["5Auth013SafariWebAuthC", "WebAuthError"]
+- ["5Auth013SafariWebAuthC", "audience"]
+- !private ["5Auth013SafariWebAuthC", "authenticationSession"]
+- ["5Auth013SafariWebAuthC", "buildAuthorizeURL"]
+- ["5Auth013SafariWebAuthC", "clearSession"]
+- ["5Auth013SafariWebAuthC", "clientId"]
+- ["5Auth013SafariWebAuthC", "connection"]
+- ["5Auth013SafariWebAuthC", "connectionScope"]
+- ["5Auth013SafariWebAuthC", "deinit"]
+- !private ["5Auth013SafariWebAuthC", "generateDefaultState"]
+- ["5Auth013SafariWebAuthC", "handler"]
+- ["5Auth013SafariWebAuthC", "init"]
+- ["5Auth013SafariWebAuthC", "logger"]
+- ["5Auth013SafariWebAuthC", "newSafari"]
+- ["5Auth013SafariWebAuthC", "nonce"]
+- ["5Auth013SafariWebAuthC", "parameters"]
+- ["5Auth013SafariWebAuthC", "presenter"]
+- ["5Auth013SafariWebAuthC", "redirectURL"]
+- ["5Auth013SafariWebAuthC", "responseType"]
+- ["5Auth013SafariWebAuthC", "scope"]
+- ["5Auth013SafariWebAuthC", "start"]
+- ["5Auth013SafariWebAuthC", "state"]
+- ["5Auth013SafariWebAuthC", "storage"]
+- ["5Auth013SafariWebAuthC", "telemetry"]
+- ["5Auth013SafariWebAuthC", "universalLink"]
+- ["5Auth013SafariWebAuthC", "url"]
+- ["5Auth013SafariWebAuthC", "useLegacyAuthentication"]
+- ["5Auth013SafariWebAuthC", "useUniversalLink"]
+- ["5Auth013SafariWebAuthC", "usingImplicitGrant"]
+- !private ["s8SequenceP", "a0_encodeBase64URLSafe"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "hasPrefix"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "joined"]
+- !private ["s8SequenceP", "map"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s8SequenceP", "withUnsafeMutableBytes"]
+- ["s10SetAlgebraP", "code"]
+- !private ["s10SetAlgebraP", "idToken"]
+- !private ["s10SetAlgebraP", "label"]
+- !private ["s10SetAlgebraP", "token"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["5Auth026SilentSafariViewControllerC", "deinit"]
+- !private ["5Auth026SilentSafariViewControllerC", "init"]
+- !private ["s10StrideableP", "init"]
+- !private ["SS", "hasPrefix"]
+- ["SS", "init"]
+- !private ["s14StringProtocolP", "hasPrefix"]
+- ["s14StringProtocolP", "init"]
+- !private ["5Auth09TelemetryV", "init"]
+- !private ["5Auth09TelemetryV", "queryItemsWithTelemetry"]
+- !private ["s16TextOutputStreamP", "hasPrefix"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "hasPrefix"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["5Auth09TrackableP", "Auth0Authentication"]
+- !private ["5Auth09TrackableP", "Bundle"]
+- !private ["5Auth09TrackableP", "ControllerModalPresenter"]
+- !private ["5Auth09TrackableP", "DispatchQueue"]
+- !private ["5Auth09TrackableP", "ImplicitGrant"]
+- !private ["5Auth09TrackableP", "NoBundleIdentifier"]
+- !private ["5Auth09TrackableP", "PKCE"]
+- !private ["5Auth09TrackableP", "Result"]
+- !private ["5Auth09TrackableP", "SFSafariViewController"]
+- !private ["5Auth09TrackableP", "SafariAuthenticationSession"]
+- !private ["5Auth09TrackableP", "SafariAuthenticationSessionCallback"]
+- !private ["5Auth09TrackableP", "SafariSession"]
+- !private ["5Auth09TrackableP", "SafariWebAuth"]
+- !private ["5Auth09TrackableP", "SilentSafariViewController"]
+- !private ["5Auth09TrackableP", "Telemetry"]
+- !private ["5Auth09TrackableP", "TransactionStore"]
+- !private ["5Auth09TrackableP", "URL"]
+- !private ["5Auth09TrackableP", "URLComponents"]
+- !private ["5Auth09TrackableP", "URLQueryItem"]
+- !private ["5Auth09TrackableP", "WebAuthError"]
+- ["5Auth09TrackableP", "audience"]
+- !private ["5Auth09TrackableP", "authenticationSession"]
+- !private ["5Auth09TrackableP", "buildAuthorizeURL"]
+- ["5Auth09TrackableP", "clearSession"]
+- ["5Auth09TrackableP", "clientId"]
+- ["5Auth09TrackableP", "connection"]
+- ["5Auth09TrackableP", "connectionScope"]
+- !private ["5Auth09TrackableP", "generateDefaultState"]
+- !private ["5Auth09TrackableP", "handler"]
+- !private ["5Auth09TrackableP", "init"]
+- ["5Auth09TrackableP", "logger"]
+- !private ["5Auth09TrackableP", "newSafari"]
+- ["5Auth09TrackableP", "nonce"]
+- ["5Auth09TrackableP", "parameters"]
+- !private ["5Auth09TrackableP", "presenter"]
+- !private ["5Auth09TrackableP", "redirectURL"]
+- ["5Auth09TrackableP", "responseType"]
+- ["5Auth09TrackableP", "scope"]
+- ["5Auth09TrackableP", "start"]
+- ["5Auth09TrackableP", "state"]
+- !private ["5Auth09TrackableP", "storage"]
+- ["5Auth09TrackableP", "telemetry"]
+- !private ["5Auth09TrackableP", "universalLink"]
+- ["5Auth09TrackableP", "url"]
+- ["5Auth09TrackableP", "useLegacyAuthentication"]
+- ["5Auth09TrackableP", "useUniversalLink"]
+- ["5Auth09TrackableP", "usingImplicitGrant"]
+- ["5Auth09TrackableP", ""]
+- !private ["5Auth016TransactionStoreC", "shared"]
+- !private ["5Auth016TransactionStoreC", "store"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "presentingViewController"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "presentingViewController"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "presentingViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentingViewController"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "presentingViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "presentingViewController"]
+- !private ["So16UIStateRestoringP", "delegate"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "presentingViewController"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "presentingViewController"]
+- !private ["So16UIViewControllerC", "delegate"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "presentingViewController"]
+- !private ["10Foundation3URLV", "absoluteString"]
+- !private ["10Foundation3URLV", "appendingPathComponent"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation13URLComponentsV", "init"]
+- !private ["10Foundation13URLComponentsV", "queryItems"]
+- !private ["10Foundation13URLComponentsV", "scheme"]
+- !private ["10Foundation13URLComponentsV", "url"]
+- !private ["10Foundation12URLQueryItemV", "init"]
+- !private ["10Foundation12URLQueryItemV", "value"]
+- !private ["5Auth07WebAuthP", "Auth0Authentication"]
+- !private ["5Auth07WebAuthP", "Bundle"]
+- !private ["5Auth07WebAuthP", "ControllerModalPresenter"]
+- !private ["5Auth07WebAuthP", "DispatchQueue"]
+- !private ["5Auth07WebAuthP", "ImplicitGrant"]
+- !private ["5Auth07WebAuthP", "NoBundleIdentifier"]
+- !private ["5Auth07WebAuthP", "PKCE"]
+- !private ["5Auth07WebAuthP", "Result"]
+- !private ["5Auth07WebAuthP", "SFSafariViewController"]
+- !private ["5Auth07WebAuthP", "SafariAuthenticationSession"]
+- !private ["5Auth07WebAuthP", "SafariAuthenticationSessionCallback"]
+- !private ["5Auth07WebAuthP", "SafariSession"]
+- !private ["5Auth07WebAuthP", "SafariWebAuth"]
+- !private ["5Auth07WebAuthP", "SilentSafariViewController"]
+- !private ["5Auth07WebAuthP", "Telemetry"]
+- !private ["5Auth07WebAuthP", "TransactionStore"]
+- !private ["5Auth07WebAuthP", "URL"]
+- !private ["5Auth07WebAuthP", "URLComponents"]
+- !private ["5Auth07WebAuthP", "URLQueryItem"]
+- !private ["5Auth07WebAuthP", "WebAuthError"]
+- ["5Auth07WebAuthP", "audience"]
+- !private ["5Auth07WebAuthP", "authenticationSession"]
+- !private ["5Auth07WebAuthP", "buildAuthorizeURL"]
+- ["5Auth07WebAuthP", "clearSession"]
+- ["5Auth07WebAuthP", "clientId"]
+- ["5Auth07WebAuthP", "connection"]
+- ["5Auth07WebAuthP", "connectionScope"]
+- !private ["5Auth07WebAuthP", "generateDefaultState"]
+- !private ["5Auth07WebAuthP", "handler"]
+- !private ["5Auth07WebAuthP", "init"]
+- ["5Auth07WebAuthP", "logger"]
+- !private ["5Auth07WebAuthP", "newSafari"]
+- ["5Auth07WebAuthP", "nonce"]
+- ["5Auth07WebAuthP", "parameters"]
+- !private ["5Auth07WebAuthP", "presenter"]
+- !private ["5Auth07WebAuthP", "redirectURL"]
+- ["5Auth07WebAuthP", "responseType"]
+- ["5Auth07WebAuthP", "scope"]
+- ["5Auth07WebAuthP", "start"]
+- ["5Auth07WebAuthP", "state"]
+- !private ["5Auth07WebAuthP", "storage"]
+- ["5Auth07WebAuthP", "telemetry"]
+- !private ["5Auth07WebAuthP", "universalLink"]
+- ["5Auth07WebAuthP", "url"]
+- ["5Auth07WebAuthP", "useLegacyAuthentication"]
+- ["5Auth07WebAuthP", "useUniversalLink"]
+- ["5Auth07WebAuthP", "usingImplicitGrant"]
+- ["5Auth07WebAuthP", ""]
+- !private ["5Auth012WebAuthErrorO", "cannotDismissWebAuthController"]
+- !private ["5Auth012WebAuthErrorO", "deinit"]
+- !private ["5Auth012WebAuthErrorO", "noBundleIdentifierFound"]
+- !private ["5Auth012WebAuthErrorO", "noNonceProvided"]
+- !private ["5Auth012WebAuthErrorO", "userCancelled"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "a0_encodeBase64URLSafe"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "contains"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "hasPrefix"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "joined"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s23_BidirectionalIndexableP", "withUnsafeMutableBytes"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasPrefix"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "hasPrefix"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasPrefix"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "absoluteString"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "hasPrefix"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasPrefix"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "a0_encodeBase64URLSafe"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "forEach"]
+- !private ["s10_IndexableP", "hasPrefix"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "joined"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s10_IndexableP", "withUnsafeMutableBytes"]
+- !private ["s14_IndexableBaseP", "a0_encodeBase64URLSafe"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- !private ["s14_IndexableBaseP", "hasPrefix"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "joined"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["s14_IndexableBaseP", "withUnsafeMutableBytes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundleIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasPrefix"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentingViewController"]
+- !private ["10Foundation14_MutableBoxingP", "init"]
+- !private ["10Foundation14_MutableBoxingP", "queryItems"]
+- !private ["10Foundation14_MutableBoxingP", "scheme"]
+- !private ["10Foundation14_MutableBoxingP", "url"]
+- !private ["s17_MutableIndexableP", "a0_encodeBase64URLSafe"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "contains"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "init"]
+- !private ["s17_MutableIndexableP", "joined"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["s17_MutableIndexableP", "withUnsafeMutableBytes"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "a0_encodeBase64URLSafe"]
+- !private ["s21_ObjectiveCBridgeableP", "absoluteString"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "hasPrefix"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "queryItems"]
+- !private ["s21_ObjectiveCBridgeableP", "scheme"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "url"]
+- !private ["s21_ObjectiveCBridgeableP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "withUnsafeMutableBytes"]
+- !private ["s22_RandomAccessIndexableP", "a0_encodeBase64URLSafe"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "contains"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "joined"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "withUnsafeMutableBytes"]
+- !private ["s26_RangeReplaceableIndexableP", "a0_encodeBase64URLSafe"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "contains"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "hasPrefix"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "joined"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "withUnsafeMutableBytes"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "hasPrefix"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "5Auth00A14AuthenticationV"
+- !private "5Auth015AuthTransactionP"
+- !private "5Auth014AuthenticationP"
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So6BundleC"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- !private "5Auth024ControllerModalPresenterV"
+- "s28CustomDebugStringConvertibleP"
+- !private "10Foundation13CustomNSErrorP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "5Auth013ImplicitGrantV"
+- !private "Si"
+- "5Auth08LoggableP"
+- !private "5Auth06LoggerP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s7NumericP"
+- !private "5Auth011OAuth2GrantP"
+- !private "So9OS_objectC"
+- "s9OptionSetP"
+- !private "5Auth04PKCEV"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "5Auth012ResponseTypeV"
+- !private "5Auth06ResultO"
+- !private "So22SFSafariViewControllerC"
+- !private "So30SFSafariViewControllerDelegateP"
+- !private "5Auth027SafariAuthenticationSessionC"
+- !private "5Auth035SafariAuthenticationSessionCallbackC"
+- !private "5Auth013SafariSessionC"
+- "5Auth013SafariWebAuthC"
+- "s8SequenceP"
+- "s10SetAlgebraP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "5Auth026SilentSafariViewControllerC"
+- !private "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- !private "5Auth09TelemetryV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "5Auth09TrackableP"
+- !private "5Auth016TransactionStoreC"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So16UIViewControllerC"
+- !private "10Foundation3URLV"
+- !private "10Foundation13URLComponentsV"
+- !private "10Foundation12URLQueryItemV"
+- "5Auth07WebAuthP"
+- !private "5Auth012WebAuthErrorO"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation14_MutableBoxingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers/LocalAuthentication.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/SafariServices.framework/Headers/SafariServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "a73bc6a1b5ff284ff32eca16182e9058"

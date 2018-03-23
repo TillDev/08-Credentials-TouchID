@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9125ac188f239b6c01033c4426e5f352"
+build_time: [1521793828, 141772000]
+inputs:
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Messages/Theme.swift": [1512983390, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/AppDelegate.swift": [1521768460, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Messages/ExampleViewController.swift": [1512983390, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/AlertController+Loading.swift": [1521768460, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Messages/ExampleTableViewCells.swift": [1521782700, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Messages/SpruceTableViewControllerExample.swift": [1521783970, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Profile/ProfileViewController.swift": [1521782244, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Messages/MessageModel.swift": [1521783027, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/Profile/ProfileItemViewController.swift": [1521779965, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/SessionManager.swift": [1521768460, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/TabBar/TabBarViewController.swift": [1521778571, 0]
+  "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Auth0Sample/HomeViewController.swift": [1521770063, 0]

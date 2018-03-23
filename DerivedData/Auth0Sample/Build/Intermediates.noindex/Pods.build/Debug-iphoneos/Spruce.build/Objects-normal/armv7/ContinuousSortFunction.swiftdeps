@@ -1,0 +1,264 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ContinuousSortFunction"
+provides-nominal:
+- "6Spruce22ContinuousSortFunctionV"
+provides-member:
+- ["6Spruce22ContinuousSortFunctionV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "-"
+- !private "/"
+- !private "<"
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "ContinuousSortFunction"
+- !private "Double"
+- "FloatLiteralType"
+- "Int"
+- "Position"
+- "PositionSortFunction"
+- "TimeInterval"
+- "TimedView"
+- "UIView"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "map"]
+- !private ["Sa", "max"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s23BidirectionalCollectionP", "max"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "spruce"]
+- !private ["SC7CGPointV", "spruce"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "spruce"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "map"]
+- !private ["s10CollectionP", "max"]
+- ["6Spruce22ContinuousSortFunctionV", "Bool"]
+- !private ["6Spruce22ContinuousSortFunctionV", "Double"]
+- ["6Spruce22ContinuousSortFunctionV", "Int"]
+- ["6Spruce22ContinuousSortFunctionV", "Position"]
+- ["6Spruce22ContinuousSortFunctionV", "TimeInterval"]
+- ["6Spruce22ContinuousSortFunctionV", "TimedView"]
+- ["6Spruce22ContinuousSortFunctionV", "UIView"]
+- ["6Spruce22ContinuousSortFunctionV", "deinit"]
+- ["6Spruce22ContinuousSortFunctionV", "distanceBetween"]
+- ["6Spruce22ContinuousSortFunctionV", "distancePoint"]
+- ["6Spruce22ContinuousSortFunctionV", "duration"]
+- ["6Spruce22ContinuousSortFunctionV", "init"]
+- ["6Spruce22ContinuousSortFunctionV", "interObjectDelay"]
+- ["6Spruce22ContinuousSortFunctionV", "position"]
+- ["6Spruce22ContinuousSortFunctionV", "reversed"]
+- ["6Spruce22ContinuousSortFunctionV", "timeOffsets"]
+- ["6Spruce22ContinuousSortFunctionV", "translate"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "max"]
+- !private ["s28CustomDebugStringConvertibleP", "spruce"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "spruce"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "max"]
+- !private ["s17CustomReflectableP", "spruce"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "spruce"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9DecodableP", "max"]
+- !private ["s9DecodableP", "spruce"]
+- !private ["6Spruce20DistanceSortFunctionP", "TimedView"]
+- ["6Spruce20DistanceSortFunctionP", "distanceBetween"]
+- ["6Spruce20DistanceSortFunctionP", "distancePoint"]
+- !private ["6Spruce20DistanceSortFunctionP", "duration"]
+- ["6Spruce20DistanceSortFunctionP", "interObjectDelay"]
+- ["6Spruce20DistanceSortFunctionP", "position"]
+- ["6Spruce20DistanceSortFunctionP", "reversed"]
+- ["6Spruce20DistanceSortFunctionP", "timeOffsets"]
+- ["6Spruce20DistanceSortFunctionP", "translate"]
+- ["6Spruce20DistanceSortFunctionP", ""]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EncodableP", "max"]
+- !private ["s9EncodableP", "spruce"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "spruce"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "max"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "spruce"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["s17MutableCollectionP", "max"]
+- !private ["So8NSCodingP", "spruce"]
+- !private ["So8NSObjectC", "spruce"]
+- !private ["So16NSObjectProtocolP", "spruce"]
+- !private ["6Spruce20PositionSortFunctionP", "TimedView"]
+- ["6Spruce20PositionSortFunctionP", "distanceBetween"]
+- ["6Spruce20PositionSortFunctionP", "distancePoint"]
+- !private ["6Spruce20PositionSortFunctionP", "duration"]
+- ["6Spruce20PositionSortFunctionP", "interObjectDelay"]
+- ["6Spruce20PositionSortFunctionP", "position"]
+- ["6Spruce20PositionSortFunctionP", "reversed"]
+- ["6Spruce20PositionSortFunctionP", "timeOffsets"]
+- ["6Spruce20PositionSortFunctionP", "translate"]
+- ["6Spruce20PositionSortFunctionP", ""]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s22RandomAccessCollectionP", "max"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["s26RangeReplaceableCollectionP", "max"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "map"]
+- !private ["s8SequenceP", "max"]
+- !private ["6Spruce12SortFunctionP", "TimedView"]
+- ["6Spruce12SortFunctionP", "distanceBetween"]
+- ["6Spruce12SortFunctionP", "distancePoint"]
+- !private ["6Spruce12SortFunctionP", "duration"]
+- ["6Spruce12SortFunctionP", "interObjectDelay"]
+- ["6Spruce12SortFunctionP", "position"]
+- ["6Spruce12SortFunctionP", "reversed"]
+- ["6Spruce12SortFunctionP", "timeOffsets"]
+- ["6Spruce12SortFunctionP", "translate"]
+- ["6Spruce12SortFunctionP", ""]
+- !private ["6SpruceAAV", "subviews"]
+- !private ["6Spruce0A5PointV", "euclideanDistance"]
+- !private ["6Spruce9TimedViewV", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "spruce"]
+- !private ["So12UIAppearanceP", "spruce"]
+- !private ["So21UIAppearanceContainerP", "spruce"]
+- !private ["So17UICoordinateSpaceP", "spruce"]
+- !private ["So13UIDynamicItemP", "spruce"]
+- !private ["So18UIFocusEnvironmentP", "spruce"]
+- !private ["So11UIFocusItemP", "spruce"]
+- !private ["So30UIPasteConfigurationSupportingP", "spruce"]
+- !private ["So11UIResponderC", "spruce"]
+- !private ["So30UIResponderStandardEditActionsP", "spruce"]
+- !private ["So18UITraitEnvironmentP", "spruce"]
+- !private ["So6UIViewC", "spruce"]
+- !private ["6Spruce4ViewP", "referencePoint"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "max"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s23_BidirectionalIndexableP", "max"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "spruce"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "max"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s10_IndexableP", "max"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s14_IndexableBaseP", "max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "spruce"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["s17_MutableIndexableP", "max"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "max"]
+- !private ["s21_ObjectiveCBridgeableP", "spruce"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "max"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+- !private ["s26_RangeReplaceableIndexableP", "max"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "SC7CGPointV"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- "6Spruce22ContinuousSortFunctionV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- "6Spruce20DistanceSortFunctionP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- "6Spruce20PositionSortFunctionP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- "6Spruce12SortFunctionP"
+- !private "6SpruceAAV"
+- !private "6Spruce0A5PointV"
+- !private "6Spruce9TimedViewV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "6Spruce4ViewP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Spruce/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Spruce.build/unextended-module.modulemap"
+interface-hash: "4255741f128af603e10d8af5ff6e4ab0"

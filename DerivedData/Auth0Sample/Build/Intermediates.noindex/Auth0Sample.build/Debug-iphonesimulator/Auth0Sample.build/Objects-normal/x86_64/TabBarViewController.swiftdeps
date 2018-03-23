@@ -1,0 +1,558 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TabBarViewController"
+provides-nominal:
+- "11Auth0Sample20TabBarViewControllerC"
+provides-member:
+- ["11Auth0Sample20TabBarViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "tbar"
+- "viewDidLoad"
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "ProfileViewController"
+- "RAMAnimatedTabBarController"
+- !private "RAMAnimatedTabBarItem"
+- !private "RAMFrameItemAnimation"
+- !private "RAMRotationAnimation"
+- !private "SpruceTableViewControllerExample"
+- !private "StringLiteralType"
+- "TabBarViewController"
+- !private "UIImage"
+- "UITabBar"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "ProfileViewController"]
+- !private ["s7CVarArgP", "RAMAnimatedTabBarItem"]
+- !private ["s7CVarArgP", "RAMFrameItemAnimation"]
+- !private ["s7CVarArgP", "RAMRotationAnimation"]
+- !private ["s7CVarArgP", "SpruceTableViewControllerExample"]
+- !private ["s7CVarArgP", "UIImage"]
+- !private ["s7CVarArgP", "animation"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "imagesPath"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isDeselectAnimation"]
+- !private ["s7CVarArgP", "tabBarItem"]
+- !private ["s7CVarArgP", "viewControllers"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "ProfileViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "RAMAnimatedTabBarItem"]
+- !private ["s28CustomDebugStringConvertibleP", "RAMFrameItemAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "RAMRotationAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "SpruceTableViewControllerExample"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- !private ["s28CustomDebugStringConvertibleP", "animation"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "imagesPath"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isDeselectAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "tabBarItem"]
+- !private ["s28CustomDebugStringConvertibleP", "viewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "ProfileViewController"]
+- !private ["s23CustomStringConvertibleP", "RAMAnimatedTabBarItem"]
+- !private ["s23CustomStringConvertibleP", "RAMFrameItemAnimation"]
+- !private ["s23CustomStringConvertibleP", "RAMRotationAnimation"]
+- !private ["s23CustomStringConvertibleP", "SpruceTableViewControllerExample"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- !private ["s23CustomStringConvertibleP", "animation"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "imagesPath"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isDeselectAnimation"]
+- !private ["s23CustomStringConvertibleP", "tabBarItem"]
+- !private ["s23CustomStringConvertibleP", "viewControllers"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "init"]
+- !private ["6Spruce8DistanceO", "severely"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "ProfileViewController"]
+- !private ["s9EquatableP", "RAMAnimatedTabBarItem"]
+- !private ["s9EquatableP", "RAMFrameItemAnimation"]
+- !private ["s9EquatableP", "RAMRotationAnimation"]
+- !private ["s9EquatableP", "SpruceTableViewControllerExample"]
+- !private ["s9EquatableP", "UIImage"]
+- !private ["s9EquatableP", "animation"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "imagesPath"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isDeselectAnimation"]
+- !private ["s9EquatableP", "left"]
+- !private ["s9EquatableP", "tabBarItem"]
+- !private ["s9EquatableP", "viewControllers"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["11Auth0Sample21ExampleViewControllerC", "tabBarItem"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "ProfileViewController"]
+- !private ["s8HashableP", "RAMAnimatedTabBarItem"]
+- !private ["s8HashableP", "RAMFrameItemAnimation"]
+- !private ["s8HashableP", "RAMRotationAnimation"]
+- !private ["s8HashableP", "SpruceTableViewControllerExample"]
+- !private ["s8HashableP", "UIImage"]
+- !private ["s8HashableP", "animation"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "imagesPath"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isDeselectAnimation"]
+- !private ["s8HashableP", "left"]
+- !private ["s8HashableP", "tabBarItem"]
+- !private ["s8HashableP", "viewControllers"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["So8NSCodingP", "ProfileViewController"]
+- !private ["So8NSCodingP", "RAMAnimatedTabBarItem"]
+- !private ["So8NSCodingP", "RAMFrameItemAnimation"]
+- !private ["So8NSCodingP", "RAMRotationAnimation"]
+- !private ["So8NSCodingP", "SpruceTableViewControllerExample"]
+- !private ["So8NSCodingP", "UIImage"]
+- !private ["So8NSCodingP", "animation"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "tabBarItem"]
+- !private ["So8NSCodingP", "viewControllers"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "ProfileViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "RAMAnimatedTabBarItem"]
+- !private ["So26NSExtensionRequestHandlingP", "RAMFrameItemAnimation"]
+- !private ["So26NSExtensionRequestHandlingP", "RAMRotationAnimation"]
+- !private ["So26NSExtensionRequestHandlingP", "SpruceTableViewControllerExample"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "tabBarItem"]
+- !private ["So26NSExtensionRequestHandlingP", "viewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "ProfileViewController"]
+- !private ["So8NSObjectC", "RAMAnimatedTabBarItem"]
+- !private ["So8NSObjectC", "RAMFrameItemAnimation"]
+- !private ["So8NSObjectC", "RAMRotationAnimation"]
+- !private ["So8NSObjectC", "SpruceTableViewControllerExample"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UITabBar"]
+- !private ["So8NSObjectC", "animation"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "imagesPath"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isDeselectAnimation"]
+- !private ["So8NSObjectC", "tabBarItem"]
+- ["So8NSObjectC", "tbar"]
+- !private ["So8NSObjectC", "viewControllers"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "ProfileViewController"]
+- !private ["So16NSObjectProtocolP", "RAMAnimatedTabBarItem"]
+- !private ["So16NSObjectProtocolP", "RAMFrameItemAnimation"]
+- !private ["So16NSObjectProtocolP", "RAMRotationAnimation"]
+- !private ["So16NSObjectProtocolP", "SpruceTableViewControllerExample"]
+- !private ["So16NSObjectProtocolP", "UIImage"]
+- !private ["So16NSObjectProtocolP", "animation"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "imagesPath"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isDeselectAnimation"]
+- !private ["So16NSObjectProtocolP", "tabBarItem"]
+- !private ["So16NSObjectProtocolP", "viewControllers"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["11Auth0Sample21ProfileViewControllerC", "init"]
+- !private ["11Auth0Sample21ProfileViewControllerC", "tabBarItem"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "ProfileViewController"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "RAMAnimatedTabBarItem"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "RAMFrameItemAnimation"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "RAMRotationAnimation"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "SpruceTableViewControllerExample"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "UIImage"]
+- ["27RAMAnimatedTabBarControllerAAC", "UITabBar"]
+- ["27RAMAnimatedTabBarControllerAAC", "didReceiveMemoryWarning"]
+- ["27RAMAnimatedTabBarControllerAAC", "init"]
+- ["27RAMAnimatedTabBarControllerAAC", "tbar"]
+- !private ["27RAMAnimatedTabBarControllerAAC", "viewControllers"]
+- ["27RAMAnimatedTabBarControllerAAC", "viewDidLoad"]
+- ["27RAMAnimatedTabBarControllerAAC", ""]
+- !private ["27RAMAnimatedTabBarController0abC4ItemC", "animation"]
+- !private ["27RAMAnimatedTabBarController0abC4ItemC", "init"]
+- !private ["27RAMAnimatedTabBarController21RAMFrameItemAnimationC", "imagesPath"]
+- !private ["27RAMAnimatedTabBarController21RAMFrameItemAnimationC", "init"]
+- !private ["27RAMAnimatedTabBarController21RAMFrameItemAnimationC", "isDeselectAnimation"]
+- !private ["27RAMAnimatedTabBarController16RAMItemAnimationC", "imagesPath"]
+- !private ["27RAMAnimatedTabBarController16RAMItemAnimationC", "init"]
+- !private ["27RAMAnimatedTabBarController16RAMItemAnimationC", "isDeselectAnimation"]
+- !private ["27RAMAnimatedTabBarController24RAMItemAnimationProtocolP", "imagesPath"]
+- !private ["27RAMAnimatedTabBarController24RAMItemAnimationProtocolP", "init"]
+- !private ["27RAMAnimatedTabBarController24RAMItemAnimationProtocolP", "isDeselectAnimation"]
+- !private ["27RAMAnimatedTabBarController20RAMRotationAnimationC", "init"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "init"]
+- !private ["6Spruce14SlideDirectionO", "left"]
+- !private ["11Auth0Sample32SpruceTableViewControllerExampleC", "deinit"]
+- !private ["11Auth0Sample32SpruceTableViewControllerExampleC", "init"]
+- !private ["11Auth0Sample32SpruceTableViewControllerExampleC", "tabBarItem"]
+- !private ["6Spruce14StockAnimationO", "fadeIn"]
+- !private ["6Spruce14StockAnimationO", "slide"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "ProfileViewController"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "RAMAnimatedTabBarItem"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "RAMFrameItemAnimation"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "RAMRotationAnimation"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "SpruceTableViewControllerExample"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "UIImage"]
+- ["11Auth0Sample20TabBarViewControllerC", "UITabBar"]
+- ["11Auth0Sample20TabBarViewControllerC", "deinit"]
+- ["11Auth0Sample20TabBarViewControllerC", "didReceiveMemoryWarning"]
+- ["11Auth0Sample20TabBarViewControllerC", "init"]
+- ["11Auth0Sample20TabBarViewControllerC", "tbar"]
+- !private ["11Auth0Sample20TabBarViewControllerC", "viewControllers"]
+- ["11Auth0Sample20TabBarViewControllerC", "viewDidLoad"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "animation"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "animation"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "ProfileViewController"]
+- !private ["So21UIAppearanceContainerP", "RAMAnimatedTabBarItem"]
+- !private ["So21UIAppearanceContainerP", "RAMFrameItemAnimation"]
+- !private ["So21UIAppearanceContainerP", "RAMRotationAnimation"]
+- !private ["So21UIAppearanceContainerP", "SpruceTableViewControllerExample"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "tabBarItem"]
+- !private ["So21UIAppearanceContainerP", "viewControllers"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So9UIBarItemC", "animation"]
+- !private ["So9UIBarItemC", "init"]
+- !private ["So18UIContentContainerP", "ProfileViewController"]
+- !private ["So18UIContentContainerP", "RAMAnimatedTabBarItem"]
+- !private ["So18UIContentContainerP", "RAMFrameItemAnimation"]
+- !private ["So18UIContentContainerP", "RAMRotationAnimation"]
+- !private ["So18UIContentContainerP", "SpruceTableViewControllerExample"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "tabBarItem"]
+- !private ["So18UIContentContainerP", "viewControllers"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIFocusEnvironmentP", "ProfileViewController"]
+- !private ["So18UIFocusEnvironmentP", "RAMAnimatedTabBarItem"]
+- !private ["So18UIFocusEnvironmentP", "RAMFrameItemAnimation"]
+- !private ["So18UIFocusEnvironmentP", "RAMRotationAnimation"]
+- !private ["So18UIFocusEnvironmentP", "SpruceTableViewControllerExample"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "tabBarItem"]
+- !private ["So18UIFocusEnvironmentP", "viewControllers"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "ProfileViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "RAMAnimatedTabBarItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "RAMFrameItemAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "RAMRotationAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "SpruceTableViewControllerExample"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "tabBarItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "ProfileViewController"]
+- !private ["So11UIResponderC", "RAMAnimatedTabBarItem"]
+- !private ["So11UIResponderC", "RAMFrameItemAnimation"]
+- !private ["So11UIResponderC", "RAMRotationAnimation"]
+- !private ["So11UIResponderC", "SpruceTableViewControllerExample"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UITabBar"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "tabBarItem"]
+- ["So11UIResponderC", "tbar"]
+- !private ["So11UIResponderC", "viewControllers"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "ProfileViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "RAMAnimatedTabBarItem"]
+- !private ["So30UIResponderStandardEditActionsP", "RAMFrameItemAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "RAMRotationAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "SpruceTableViewControllerExample"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "tabBarItem"]
+- !private ["So30UIResponderStandardEditActionsP", "viewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "tabBarItem"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "animation"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "ProfileViewController"]
+- !private ["So16UIStateRestoringP", "RAMAnimatedTabBarItem"]
+- !private ["So16UIStateRestoringP", "RAMFrameItemAnimation"]
+- !private ["So16UIStateRestoringP", "RAMRotationAnimation"]
+- !private ["So16UIStateRestoringP", "SpruceTableViewControllerExample"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "tabBarItem"]
+- !private ["So16UIStateRestoringP", "viewControllers"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITabBarControllerC", "ProfileViewController"]
+- !private ["So18UITabBarControllerC", "RAMAnimatedTabBarItem"]
+- !private ["So18UITabBarControllerC", "RAMFrameItemAnimation"]
+- !private ["So18UITabBarControllerC", "RAMRotationAnimation"]
+- !private ["So18UITabBarControllerC", "SpruceTableViewControllerExample"]
+- !private ["So18UITabBarControllerC", "UIImage"]
+- ["So18UITabBarControllerC", "UITabBar"]
+- ["So18UITabBarControllerC", "didReceiveMemoryWarning"]
+- ["So18UITabBarControllerC", "init"]
+- ["So18UITabBarControllerC", "tbar"]
+- !private ["So18UITabBarControllerC", "viewControllers"]
+- ["So18UITabBarControllerC", "viewDidLoad"]
+- !private ["So16UITabBarDelegateP", "ProfileViewController"]
+- !private ["So16UITabBarDelegateP", "RAMAnimatedTabBarItem"]
+- !private ["So16UITabBarDelegateP", "RAMFrameItemAnimation"]
+- !private ["So16UITabBarDelegateP", "RAMRotationAnimation"]
+- !private ["So16UITabBarDelegateP", "SpruceTableViewControllerExample"]
+- !private ["So16UITabBarDelegateP", "UIImage"]
+- !private ["So16UITabBarDelegateP", "didReceiveMemoryWarning"]
+- !private ["So16UITabBarDelegateP", "init"]
+- !private ["So16UITabBarDelegateP", "viewControllers"]
+- !private ["So16UITabBarDelegateP", "viewDidLoad"]
+- ["So16UITabBarDelegateP", ""]
+- !private ["So12UITabBarItemC", "animation"]
+- !private ["So12UITabBarItemC", "init"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "tabBarItem"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "tabBarItem"]
+- !private ["So18UITraitEnvironmentP", "ProfileViewController"]
+- !private ["So18UITraitEnvironmentP", "RAMAnimatedTabBarItem"]
+- !private ["So18UITraitEnvironmentP", "RAMFrameItemAnimation"]
+- !private ["So18UITraitEnvironmentP", "RAMRotationAnimation"]
+- !private ["So18UITraitEnvironmentP", "SpruceTableViewControllerExample"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "tabBarItem"]
+- !private ["So18UITraitEnvironmentP", "viewControllers"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So16UIViewControllerC", "ProfileViewController"]
+- !private ["So16UIViewControllerC", "RAMAnimatedTabBarItem"]
+- !private ["So16UIViewControllerC", "RAMFrameItemAnimation"]
+- !private ["So16UIViewControllerC", "RAMRotationAnimation"]
+- !private ["So16UIViewControllerC", "SpruceTableViewControllerExample"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UITabBar"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "tabBarItem"]
+- ["So16UIViewControllerC", "tbar"]
+- !private ["So16UIViewControllerC", "viewControllers"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ProfileViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RAMAnimatedTabBarItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RAMFrameItemAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RAMRotationAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SpruceTableViewControllerExample"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imagesPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isDeselectAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tabBarItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "6Spruce8DistanceO"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "11Auth0Sample21ExampleViewControllerC"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "11Auth0Sample21ProfileViewControllerC"
+- "27RAMAnimatedTabBarControllerAAC"
+- !private "27RAMAnimatedTabBarController0abC4ItemC"
+- !private "27RAMAnimatedTabBarController21RAMFrameItemAnimationC"
+- !private "27RAMAnimatedTabBarController16RAMItemAnimationC"
+- !private "27RAMAnimatedTabBarController24RAMItemAnimationProtocolP"
+- !private "27RAMAnimatedTabBarController20RAMRotationAnimationC"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "6Spruce14SlideDirectionO"
+- !private "11Auth0Sample32SpruceTableViewControllerExampleC"
+- !private "6Spruce14StockAnimationO"
+- !private "SS"
+- !private "s14StringProtocolP"
+- "11Auth0Sample20TabBarViewControllerC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So9UIBarItemC"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITabBarControllerC"
+- "So16UITabBarDelegateP"
+- !private "So12UITabBarItemC"
+- !private "So21UITableViewDataSourceP"
+- !private "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- "So16UIViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Modules/Auth0.swiftmodule/x86_64.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Modules/Spruce.swiftmodule/x86_64.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Modules/RAMAnimatedTabBarController.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Headers/Spruce-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Headers/RAMAnimatedTabBarController-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Headers/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Headers/Auth0-Swift.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Headers/Spruce-Swift.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Headers/RAMAnimatedTabBarController-Swift.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Auth0/Auth0.framework/Modules/module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/Spruce/Spruce.framework/Modules/module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/SimpleKeychain/SimpleKeychain.framework/Modules/module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework/Modules/module.modulemap"
+interface-hash: "dc5acce6327cac5b6127fa9ba1d3abd9"

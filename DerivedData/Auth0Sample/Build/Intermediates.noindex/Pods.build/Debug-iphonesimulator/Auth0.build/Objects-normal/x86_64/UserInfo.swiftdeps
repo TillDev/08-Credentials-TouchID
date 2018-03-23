@@ -1,0 +1,533 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserInfo"
+provides-nominal:
+- "5Auth08UserInfoC"
+provides-member:
+- ["5Auth08UserInfoC", ""]
+provides-dynamic-lookup:
+- "address"
+- "birthdate"
+- "customClaims"
+- "email"
+- "familyName"
+- "gender"
+- "givenName"
+- "locale"
+- "middleName"
+- "name"
+- "nickname"
+- "phoneNumber"
+- "picture"
+- "preferredUsername"
+- "profile"
+- "publicClaims"
+- "sub"
+- "updatedAt"
+- "website"
+- "zoneinfo"
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "Date"
+- "JSONObjectPayload"
+- "Locale"
+- "NSObject"
+- "String"
+- "StringLiteralType"
+- "TimeZone"
+- "URL"
+- "UserInfo"
+- !private "date"
+depends-member:
+- !private ["Sa", "forEach"]
+- !private ["s23BidirectionalCollectionP", "forEach"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "Locale"]
+- !private ["s7CVarArgP", "TimeZone"]
+- !private ["s7CVarArgP", "URL"]
+- !private ["s7CVarArgP", "UserInfo"]
+- !private ["s7CVarArgP", "address"]
+- !private ["s7CVarArgP", "birthdate"]
+- !private ["s7CVarArgP", "customClaims"]
+- !private ["s7CVarArgP", "date"]
+- !private ["s7CVarArgP", "email"]
+- !private ["s7CVarArgP", "emailVerified"]
+- !private ["s7CVarArgP", "familyName"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "gender"]
+- !private ["s7CVarArgP", "givenName"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "locale"]
+- !private ["s7CVarArgP", "middleName"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "nickname"]
+- !private ["s7CVarArgP", "phoneNumber"]
+- !private ["s7CVarArgP", "phoneNumberVerified"]
+- !private ["s7CVarArgP", "picture"]
+- !private ["s7CVarArgP", "preferredUsername"]
+- !private ["s7CVarArgP", "profile"]
+- !private ["s7CVarArgP", "publicClaims"]
+- !private ["s7CVarArgP", "removeValue"]
+- !private ["s7CVarArgP", "sub"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "updatedAt"]
+- !private ["s7CVarArgP", "website"]
+- !private ["s7CVarArgP", "zoneinfo"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "forEach"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "removeValue"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Locale"]
+- !private ["s28CustomDebugStringConvertibleP", "TimeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- !private ["s28CustomDebugStringConvertibleP", "UserInfo"]
+- !private ["s28CustomDebugStringConvertibleP", "address"]
+- !private ["s28CustomDebugStringConvertibleP", "birthdate"]
+- !private ["s28CustomDebugStringConvertibleP", "customClaims"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "emailVerified"]
+- !private ["s28CustomDebugStringConvertibleP", "familyName"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "gender"]
+- !private ["s28CustomDebugStringConvertibleP", "givenName"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "locale"]
+- !private ["s28CustomDebugStringConvertibleP", "middleName"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "nickname"]
+- !private ["s28CustomDebugStringConvertibleP", "phoneNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "phoneNumberVerified"]
+- !private ["s28CustomDebugStringConvertibleP", "picture"]
+- !private ["s28CustomDebugStringConvertibleP", "preferredUsername"]
+- !private ["s28CustomDebugStringConvertibleP", "profile"]
+- !private ["s28CustomDebugStringConvertibleP", "publicClaims"]
+- !private ["s28CustomDebugStringConvertibleP", "removeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "sub"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "updatedAt"]
+- !private ["s28CustomDebugStringConvertibleP", "website"]
+- !private ["s28CustomDebugStringConvertibleP", "zoneinfo"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "forEach"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeValue"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Locale"]
+- !private ["s23CustomStringConvertibleP", "TimeZone"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- !private ["s23CustomStringConvertibleP", "UserInfo"]
+- !private ["s23CustomStringConvertibleP", "address"]
+- !private ["s23CustomStringConvertibleP", "birthdate"]
+- !private ["s23CustomStringConvertibleP", "customClaims"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "email"]
+- !private ["s23CustomStringConvertibleP", "emailVerified"]
+- !private ["s23CustomStringConvertibleP", "familyName"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "gender"]
+- !private ["s23CustomStringConvertibleP", "givenName"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "locale"]
+- !private ["s23CustomStringConvertibleP", "middleName"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "nickname"]
+- !private ["s23CustomStringConvertibleP", "phoneNumber"]
+- !private ["s23CustomStringConvertibleP", "phoneNumberVerified"]
+- !private ["s23CustomStringConvertibleP", "picture"]
+- !private ["s23CustomStringConvertibleP", "preferredUsername"]
+- !private ["s23CustomStringConvertibleP", "profile"]
+- !private ["s23CustomStringConvertibleP", "publicClaims"]
+- !private ["s23CustomStringConvertibleP", "removeValue"]
+- !private ["s23CustomStringConvertibleP", "sub"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "updatedAt"]
+- !private ["s23CustomStringConvertibleP", "website"]
+- !private ["s23CustomStringConvertibleP", "zoneinfo"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "forEach"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "removeValue"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "removeValue"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "forEach"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "removeValue"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "Locale"]
+- !private ["s9EquatableP", "TimeZone"]
+- !private ["s9EquatableP", "URL"]
+- !private ["s9EquatableP", "UserInfo"]
+- !private ["s9EquatableP", "address"]
+- !private ["s9EquatableP", "birthdate"]
+- !private ["s9EquatableP", "customClaims"]
+- !private ["s9EquatableP", "date"]
+- !private ["s9EquatableP", "email"]
+- !private ["s9EquatableP", "emailVerified"]
+- !private ["s9EquatableP", "familyName"]
+- !private ["s9EquatableP", "gender"]
+- !private ["s9EquatableP", "givenName"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "locale"]
+- !private ["s9EquatableP", "middleName"]
+- !private ["s9EquatableP", "name"]
+- !private ["s9EquatableP", "nickname"]
+- !private ["s9EquatableP", "phoneNumber"]
+- !private ["s9EquatableP", "phoneNumberVerified"]
+- !private ["s9EquatableP", "picture"]
+- !private ["s9EquatableP", "preferredUsername"]
+- !private ["s9EquatableP", "profile"]
+- !private ["s9EquatableP", "publicClaims"]
+- !private ["s9EquatableP", "sub"]
+- !private ["s9EquatableP", "updatedAt"]
+- !private ["s9EquatableP", "website"]
+- !private ["s9EquatableP", "zoneinfo"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "removeValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "Locale"]
+- !private ["s8HashableP", "TimeZone"]
+- !private ["s8HashableP", "URL"]
+- !private ["s8HashableP", "UserInfo"]
+- !private ["s8HashableP", "address"]
+- !private ["s8HashableP", "birthdate"]
+- !private ["s8HashableP", "customClaims"]
+- !private ["s8HashableP", "date"]
+- !private ["s8HashableP", "email"]
+- !private ["s8HashableP", "emailVerified"]
+- !private ["s8HashableP", "familyName"]
+- !private ["s8HashableP", "gender"]
+- !private ["s8HashableP", "givenName"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "locale"]
+- !private ["s8HashableP", "middleName"]
+- !private ["s8HashableP", "name"]
+- !private ["s8HashableP", "nickname"]
+- !private ["s8HashableP", "phoneNumber"]
+- !private ["s8HashableP", "phoneNumberVerified"]
+- !private ["s8HashableP", "picture"]
+- !private ["s8HashableP", "preferredUsername"]
+- !private ["s8HashableP", "profile"]
+- !private ["s8HashableP", "publicClaims"]
+- !private ["s8HashableP", "sub"]
+- !private ["s8HashableP", "updatedAt"]
+- !private ["s8HashableP", "website"]
+- !private ["s8HashableP", "zoneinfo"]
+- ["s8HashableP", ""]
+- !private ["5Auth017JSONObjectPayloadP", "Locale"]
+- !private ["5Auth017JSONObjectPayloadP", "TimeZone"]
+- !private ["5Auth017JSONObjectPayloadP", "URL"]
+- !private ["5Auth017JSONObjectPayloadP", "UserInfo"]
+- !private ["5Auth017JSONObjectPayloadP", "address"]
+- !private ["5Auth017JSONObjectPayloadP", "birthdate"]
+- !private ["5Auth017JSONObjectPayloadP", "customClaims"]
+- !private ["5Auth017JSONObjectPayloadP", "date"]
+- !private ["5Auth017JSONObjectPayloadP", "email"]
+- !private ["5Auth017JSONObjectPayloadP", "emailVerified"]
+- !private ["5Auth017JSONObjectPayloadP", "familyName"]
+- !private ["5Auth017JSONObjectPayloadP", "gender"]
+- !private ["5Auth017JSONObjectPayloadP", "givenName"]
+- ["5Auth017JSONObjectPayloadP", "init"]
+- !private ["5Auth017JSONObjectPayloadP", "locale"]
+- !private ["5Auth017JSONObjectPayloadP", "middleName"]
+- !private ["5Auth017JSONObjectPayloadP", "name"]
+- !private ["5Auth017JSONObjectPayloadP", "nickname"]
+- !private ["5Auth017JSONObjectPayloadP", "phoneNumber"]
+- !private ["5Auth017JSONObjectPayloadP", "phoneNumberVerified"]
+- !private ["5Auth017JSONObjectPayloadP", "picture"]
+- !private ["5Auth017JSONObjectPayloadP", "preferredUsername"]
+- !private ["5Auth017JSONObjectPayloadP", "profile"]
+- !private ["5Auth017JSONObjectPayloadP", "publicClaims"]
+- !private ["5Auth017JSONObjectPayloadP", "sub"]
+- !private ["5Auth017JSONObjectPayloadP", "updatedAt"]
+- !private ["5Auth017JSONObjectPayloadP", "website"]
+- !private ["5Auth017JSONObjectPayloadP", "zoneinfo"]
+- ["5Auth017JSONObjectPayloadP", ""]
+- !private ["10Foundation6LocaleV", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "forEach"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Date"]
+- ["So8NSObjectC", "Locale"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TimeZone"]
+- ["So8NSObjectC", "URL"]
+- !private ["So8NSObjectC", "UserInfo"]
+- ["So8NSObjectC", "address"]
+- ["So8NSObjectC", "birthdate"]
+- ["So8NSObjectC", "customClaims"]
+- !private ["So8NSObjectC", "date"]
+- ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "emailVerified"]
+- ["So8NSObjectC", "familyName"]
+- ["So8NSObjectC", "gender"]
+- ["So8NSObjectC", "givenName"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "locale"]
+- ["So8NSObjectC", "middleName"]
+- ["So8NSObjectC", "name"]
+- ["So8NSObjectC", "nickname"]
+- ["So8NSObjectC", "phoneNumber"]
+- ["So8NSObjectC", "phoneNumberVerified"]
+- ["So8NSObjectC", "picture"]
+- ["So8NSObjectC", "preferredUsername"]
+- ["So8NSObjectC", "profile"]
+- ["So8NSObjectC", "publicClaims"]
+- ["So8NSObjectC", "sub"]
+- ["So8NSObjectC", "updatedAt"]
+- ["So8NSObjectC", "website"]
+- ["So8NSObjectC", "zoneinfo"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "Locale"]
+- !private ["So16NSObjectProtocolP", "TimeZone"]
+- !private ["So16NSObjectProtocolP", "URL"]
+- !private ["So16NSObjectProtocolP", "UserInfo"]
+- !private ["So16NSObjectProtocolP", "address"]
+- !private ["So16NSObjectProtocolP", "birthdate"]
+- !private ["So16NSObjectProtocolP", "customClaims"]
+- !private ["So16NSObjectProtocolP", "date"]
+- !private ["So16NSObjectProtocolP", "email"]
+- !private ["So16NSObjectProtocolP", "emailVerified"]
+- !private ["So16NSObjectProtocolP", "familyName"]
+- !private ["So16NSObjectProtocolP", "gender"]
+- !private ["So16NSObjectProtocolP", "givenName"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "locale"]
+- !private ["So16NSObjectProtocolP", "middleName"]
+- !private ["So16NSObjectProtocolP", "name"]
+- !private ["So16NSObjectProtocolP", "nickname"]
+- !private ["So16NSObjectProtocolP", "phoneNumber"]
+- !private ["So16NSObjectProtocolP", "phoneNumberVerified"]
+- !private ["So16NSObjectProtocolP", "picture"]
+- !private ["So16NSObjectProtocolP", "preferredUsername"]
+- !private ["So16NSObjectProtocolP", "profile"]
+- !private ["So16NSObjectProtocolP", "publicClaims"]
+- !private ["So16NSObjectProtocolP", "sub"]
+- !private ["So16NSObjectProtocolP", "updatedAt"]
+- !private ["So16NSObjectProtocolP", "website"]
+- !private ["So16NSObjectProtocolP", "zoneinfo"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "forEach"]
+- !private ["s26RangeReplaceableCollectionP", "forEach"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "forEach"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "removeValue"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation8TimeZoneV", "init"]
+- !private ["10Foundation3URLV", "init"]
+- ["5Auth08UserInfoC", "Bool"]
+- ["5Auth08UserInfoC", "Date"]
+- ["5Auth08UserInfoC", "Locale"]
+- ["5Auth08UserInfoC", "String"]
+- ["5Auth08UserInfoC", "TimeZone"]
+- ["5Auth08UserInfoC", "URL"]
+- !private ["5Auth08UserInfoC", "UserInfo"]
+- ["5Auth08UserInfoC", "address"]
+- ["5Auth08UserInfoC", "birthdate"]
+- ["5Auth08UserInfoC", "customClaims"]
+- !private ["5Auth08UserInfoC", "date"]
+- ["5Auth08UserInfoC", "deinit"]
+- ["5Auth08UserInfoC", "email"]
+- ["5Auth08UserInfoC", "emailVerified"]
+- ["5Auth08UserInfoC", "familyName"]
+- ["5Auth08UserInfoC", "gender"]
+- ["5Auth08UserInfoC", "givenName"]
+- ["5Auth08UserInfoC", "init"]
+- ["5Auth08UserInfoC", "locale"]
+- ["5Auth08UserInfoC", "middleName"]
+- ["5Auth08UserInfoC", "name"]
+- ["5Auth08UserInfoC", "nickname"]
+- ["5Auth08UserInfoC", "phoneNumber"]
+- ["5Auth08UserInfoC", "phoneNumberVerified"]
+- ["5Auth08UserInfoC", "picture"]
+- ["5Auth08UserInfoC", "preferredUsername"]
+- ["5Auth08UserInfoC", "profile"]
+- ["5Auth08UserInfoC", "publicClaims"]
+- ["5Auth08UserInfoC", "sub"]
+- ["5Auth08UserInfoC", "updatedAt"]
+- ["5Auth08UserInfoC", "website"]
+- ["5Auth08UserInfoC", "zoneinfo"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s23_BidirectionalIndexableP", "forEach"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "forEach"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "removeValue"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "forEach"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "removeValue"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Locale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TimeZone"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserInfo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "address"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "birthdate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "customClaims"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "email"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emailVerified"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "familyName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "gender"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "givenName"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "locale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "middleName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nickname"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "phoneNumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "phoneNumberVerified"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "picture"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "preferredUsername"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "profile"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "publicClaims"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sub"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updatedAt"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "website"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "zoneinfo"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "removeValue"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "forEach"]
+- !private ["s26_RangeReplaceableIndexableP", "forEach"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "5Auth017JSONObjectPayloadP"
+- !private "10Foundation6LocaleV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- !private "s12StaticStringV"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "10Foundation8TimeZoneV"
+- !private "10Foundation3URLV"
+- "5Auth08UserInfoC"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/Auth0.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/Auth0/Auth0-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Target Support Files/SimpleKeychain/SimpleKeychain-umbrella.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/SimpleKeychain/SimpleKeychain/A0SimpleKeychain+KeyPair.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/Pods/Auth0/Auth0/A0ChallengeGenerator.h"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Auth0.build/unextended-module.modulemap"
+- "/Users/andretill/DEVELOPER/Mac/auth0-ios-swift-sample/08-Credentials-TouchID/DerivedData/Auth0Sample/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SimpleKeychain.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers/LocalAuthentication.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/SafariServices.framework/Headers/SafariServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "9625f5e4c987a5069cfed66a3ddfb399"
